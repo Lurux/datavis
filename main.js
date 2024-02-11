@@ -13,6 +13,6 @@ new p5(focus, "focus");
 
 setTimeout(
 	() => new p5(histogram, "histogram"),	//	Needed because of DataLoader
-	500										//	Ugly but IDK what to do about it
+	1000										//	Ugly but IDK what to do about it
 );
 
