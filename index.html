@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>p5.js example</title>
+	<style>
+		body {
+			padding: 0;
+			margin: 0;
+
+			font-family: sans-serif;
+			text-align: center;
+
+			background-color: #0f0f0f;
+			color: white;
+		}
+		h1 {
+			margin-top: 32px;
+			margin-bottom: 64px;
+		}
+		h2 {
+			margin: 16px;
+		}
+		h3 {
+			margin-top: 32px;
+			margin-bottom: 16px;
+		}
+		p {
+			margin: 8px 32px;
+		}
+		
+		.card {
+			background-color: #0a0a0a;
+			box-shadow: 1px 1px 6px 0px rgba(0, 0, 0, 0.6);
+			border-radius: 8px;
+
+			width: 80%;
+			margin: 32px auto;
+			padding-bottom: 16px;
+			overflow: hidden;
+		}
+
+		summary {
+			cursor: pointer;
+			padding: 8px;
+		}
+		summary > * {
+			display: inline;
+		}
+		summary:hover {
+			background-color: #141414;
+		}
+	</style>
+	<script src="p5/p5.min.js"></script>
+	<script type="module" src="main.js"></script>
+</head>
+
+<body>
+	<main>
+		<h1>Why Europeans students throw away their smartphones, and what they can do about it</h1>
+		<div id="dataloader" style="display: none"></div>
+
+		<div class="card">		
+			<h2>Data source</h2>
+			<p>These visualizations were created using data from <b>repair shop information</b>, so it may not be reflective of all the issues people can have with their smartphone.</p>
+			<p>Instead, these visualizations give us an insight about the problems people have they may expect to be repairable.</p>
+		</div>
+
+		<div class="card">		
+			<h2>Mobile Device Issues by Brand</h2>
+			<div id="focus"></div>
+			<details>
+				<summary>
+					<h3>Show info</h3>
+				</summary>
+				
+				<h3>The Visualization Shows:</h3>
+				<p>The visualization depicts the reasons why European students need to repair or dispose of their smartphones, categorized by phone brand. The included brands are Samsung, Apple, Huawei, Nokia, and others. The reasons for repair or disposal include a broken screen, broken home button, faulty software, broken battery, and other issues.</p>
+
+				<h3>The Visualization is For:</h3>
+				<p>This visualization is intended for European students who own smartphones and are interested in understanding common issues leading to smartphone repair or disposal. It provides insights relevant to their device choices and maintenance practices.</p>
+
+				<h3>The Visualization is important because:</h3>
+				<p>The audience should care about this data because it sheds light on the durability and common problems associated with various smartphone brands. By knowing which issues are prevalent, students can make informed decisions when purchasing phones and take preventive measures to avoid these common problems.</p>
+
+				<h3>How to Read the Visualization:</h3>
+				<p>Brands: On the left side, you’ll find a list of smartphone brands along with their respective proportion in our dataset (Samsung: 25.3%, Apple: 24.7%, Huawei: 4.2%, Nokia: 4.1%, Others: 41.7%).</p>
+				<p>Breakage: On the right side, the reasons for phone repair or disposal are listed (Broken Screen: 58.7%, Broken Home Button: 6.6%, Faulty Software: 5.5%, Broken Battery: 4.8%, Others: 24%).</p>
+				<p>Data flow: Colored stripes connect each brand to specific reasons. These stripes indicate correlations between particular phone brands and the issues they commonly face.</p>
+				<p>Interpretation: For instance, you can see that broken screens are a significant problem across all brands, while faulty software is less common. Use this information to make informed choices about smartphone purchases and maintenance practices.</p>
+			</details>
+		</div>
+
+		<div class="card">		
+			<h2>Smartphone deterioration over time</h2>
+			<div id="histogram"></div>
+			<details>
+				<summary>
+					<h3>Show info</h3>
+				</summary>
+
+				<h3>The Visualization Shows:</h3>
+				<p>This stacked area chart represents the main reasons why European students need to repair their smartphones over time.</p>
+				<p>Each color in the chart corresponds to a different reason, and the x-axis indicates the age of the smartphones</p>
+
+				<h3>The Visualization is For:</h3>
+				<p>European students, educators, parents, and anyone interested in understanding smartphone usage patterns, providing insights into the factors influencing smartphone longevity and disposal habits among students.</p>
+
+				<h3>The Visualization is important because:</h3>
+				<p>Understanding these reasons is crucial because it sheds light on sustainability and environmental impact.</p>
+				<p>By knowing why students discard or repair their phones, we can encourage better maintenance practices and advocate for longer-lasting devices.</p>
+				<p>Additionally, manufacturers can use this data to improve phone durability and reduce electronic waste.</p>
+
+				<h3>How to Read the Visualization:</h3>
+				<p>Look at the x-axis to determine the age of the smartphones (ranging from 0 to 10 years).</p>
+				<p>Observe the colored areas in the chart, each representing a specific issue (e.g., broken screen, water damage).</p>
+				<p>The larger the area, the more prevalent that issue is among European students.</p>
+				<p>Vertical lines indicate specific phone ages (e.g., 2 years, 4 years), providing additional context.</p>
+			</details>
+		</div>
+
+		<div class="card">	
+			<h2>Most Common Mobile Phone Issues and Their Prevalence</h2>	
+			<div id="radial"></div>
+			<details>
+				<summary>
+					<h3>Show info</h3>
+				</summary>
+
+				<h3>The Visualization Shows:</h3>
+				<p>The visualization depicts various reasons why European students might need to repair or dispose of their smartphones.</p>
+				<p>Each reason is represented by a colored line extending from a central point, with the length of the line corresponding to the average age before experiencing specific issue.</p>
+				<p>The most prominent issue, highlighted in red, is a “Broken Screen”, affecting approximately 58.7% of European students. The size of the circles is proportional to the percantage of affected students.</p>
+
+				<h3>The Visualization is For:</h3>
+				<p>This visualization is intended for European students, educators, parents, and smartphone manufacturers.</p>
+				<p>Educators and parents can use this data to educate students about smartphone care and maintenance.</p>
+				<p>Manufacturers can identify common issues and improve smartphone design and durability.</p>
+
+				<h3>The Visualization is important because:</h3>
+				<p>Reducing electronic waste: Understanding common smartphone issues can lead to better design and longer-lasting devices, reducing the need for frequent replacements.</p>
+				<p>Financial savings: Repairing rather than replacing smartphones can save students money.</p>
+				<p>Environmental impact: Proper disposal and repair practices contribute to sustainability.</p>
+
+				<h3>How to Read the Visualization:</h3>
+				<p>Look at each line extending from the central point. Each line represents a different issue leading to smartphone repair or disposal.</p>
+				<p>The length of each line corresponds to the average age before experiencing specific issue. The size of the circles is proportional to the percantage of affected students.</p>
+			</details>
+		</div>
+	</main>
+</body>
+
+</html>
+
