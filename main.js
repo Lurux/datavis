@@ -8,11 +8,12 @@ import radialSketch from "./vis/radial.js";
 import histogram from "./vis/histogram.js";
 import focus from "./vis/focus.js";
 
-new p5(radialSketch, "radial");
-new p5(focus, "focus");
+if(document.getElementById("radial")) new p5(radialSketch, "radial");
+if(document.getElementById("focus")) new p5(focus, "focus");
 
+if(document.getElementById("histogram"))
 setTimeout(
 	() => new p5(histogram, "histogram"),	//	Needed because of DataLoader
-	1000										//	Ugly but IDK what to do about it
+	1000									//	Ugly but IDK what to do about it
 );
 

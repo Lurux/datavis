@@ -31,7 +31,7 @@ export default function(p5)
 	{
 		parse_data();
 
-		p5.createCanvas(1200, 800);
+		p5.createCanvas(1200, 700);
 		p5.noLoop();
 	}
 
@@ -47,7 +47,7 @@ export default function(p5)
 	{
 		let maxCount = aggregate_count.maximum;
 		let maxAge = aggregate_age.maximum;
-		let radius = 500;
+		let radius = 440;
 		let centerRadius = 60;
 
 		p5.translate(p5.width / 2, p5.height / 2);
