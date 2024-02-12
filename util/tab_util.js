@@ -31,6 +31,9 @@ let aggregate_util = {
 		this.sorted.splice(position, 0, item);
 		return this;
 	},
+	copy_sort_nth: function(item, position) {
+		return this.sorted.toSpliced(this.sorted.indexOf(item), 1).toSpliced(position, 0, item);
+	},
 	sort_first: function(item) {
 		return this.sort_nth(item, 0);
 	},

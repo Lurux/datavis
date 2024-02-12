@@ -1,5 +1,7 @@
 export default function(p5)
 {
+	const FIX_CANVAS = false;
+
 	let data_raw;
 
 	let aggregate_age;
@@ -55,7 +57,7 @@ export default function(p5)
 		
 	//	let gardient = p5.drawingContext.createConicGradient(0, 0, 0);
 	//	TODO tmp / test
-		let bg = p5.createGraphics(120, 120);
+		let bg = p5.createGraphics(120 * (1 + FIX_CANVAS), 120 * (1 + FIX_CANVAS));
 
 		// Draw rays based on percentage
 		for (let i = 0; i < aggregate_count.size; i++)
