@@ -3,16 +3,16 @@ import w from "../util/pre-work.js";
 export default function(p5)
 {
 	const width = 1200;
-	const height = 2000;
+	const height = 1200;
 
 	//	Parameters
 	const min_count = 6;
 	const num_problems = 10;
 
-	const bar_min_count = 10;
+	const bar_min_count = 8;
 	const pie_min_count = 6;
-	const histogram_min_count = 5;
-	const age_min_count = 5;
+	const histogram_min_count = 4;
+	const age_min_count = 4;
 
 	const bar_problems = 10;
 	const histogram_length = 6;
@@ -53,7 +53,10 @@ export default function(p5)
 	//	Interactive data
 	let sort = "brand";
 	let reverse = false;
+
 	let hovering = null;
+	let highlight = null;
+	let tooltip = null;
 
 	//	Imported data
 	let base_data;
@@ -181,24 +184,29 @@ export default function(p5)
 	p5.draw = function()
 	{
 		hovering = null;
+		highlight = null;
+		tooltip = null;
 
 		p5.background(gray_color(0.05));
 		p5.textSize(14);
 		p5.noStroke();
 
-		draw_decor();
+		draw_background_decor();
 
 		for(let i in selected_brands)
 		{
 			let y_base = top_height + i * (row_height + row_margin);
 			draw_row(selected_brands[i], y_base);
 		}
+
+		draw_foreground_decor();
+
+		if(highlight)	draw_tooltip(highlight);
+		if(tooltip)		draw_tooltip(tooltip);
 	}
 
 	let draw_row = function(brand, y_base, color)
 	{
-		p5.noStroke();
-
 		draw_bar(brand, y_base);
 		draw_pie(brand, y_base);
 		draw_brand(brand, y_base);
@@ -243,7 +251,7 @@ export default function(p5)
 	}
 
 	//	Clickable sort snippet
-	let snippet = function(text, x, y, mark, align = p5.CENTER, color = gray_color(0.5), mouseX = p5.mouseX, mouseY = p5.mouseY)
+	let snippet = function(text, tip, x, y, mark, align = p5.CENTER, color = gray_color(0.5), mouseX = p5.mouseX, mouseY = p5.mouseY)
 	{
 		let w = p5.textWidth(text);
 
@@ -260,9 +268,32 @@ export default function(p5)
 		&&	mouseY < y_bound + 14 + snippet_padding
 		)
 		{
-			p5.fill(gray_color(0.1));
-			p5.rect(x_bound - snippet_padding, y_bound - snippet_padding, w + 2 * snippet_padding, 14 + 2 * snippet_padding, 5);
+			let transformed = mouseX != p5.mouseX || mouseY != p5.mouseY;
+
 			hovering = mark;
+
+			if(transformed)
+			{
+				p5.fill(gray_color(0.1));
+				p5.rect(x_bound - snippet_padding, y_bound - snippet_padding, w + 2 * snippet_padding, 14 + 2 * snippet_padding, 5);
+			}
+			else
+			{
+				highlight = {
+					x: x_bound - snippet_padding - 2,
+					y: y_bound - snippet_padding + 1,
+					width: w + 2 * snippet_padding + 4,
+					height: 14 + 2 * snippet_padding,
+					text: text
+				}
+			}
+
+			if(tip)
+			{
+				tip.x = x - tip.width / 2;
+				tip.y = y_bound + 15 + 2 * snippet_padding;
+				tooltip = tip;
+			}
 		}
 
 		p5.fill(color);
@@ -277,29 +308,21 @@ export default function(p5)
 		}
 	}
 
+	let draw_tooltip = function(t)
+	{
+		p5.fill(gray_color(0.1));
+		p5.rect(t.x, t.y, t.width, t.height, 5);
+		p5.fill(gray_color(0.5));
+		p5.textAlign(p5.CENTER, p5.CENTER);
+		p5.text(t.text, t.x + snippet_padding, t.y + t.height / 2, t.width - 2 * snippet_padding);
+	}
+
 	/****************/
 	/*  Draw decor  */
 	/****************/
 
-	let draw_decor = function()
+	let draw_background_decor = function()
 	{
-		p5.fill(gray_color(0.5));
-		p5.textAlign(p5.CENTER, p5.CENTER);
-
-		//	Section titles
-		p5.text("Percent of reasons for breakage", bar_center, row_height / 2);
-
-		p5.text("Percent of", pie_center, top_height - row_height - 9);
-		snippet("successful repairs", pie_center, top_height - row_height + 8, "pie");
-
-		snippet("Brand", x_center, top_height - row_height, "brand");
-
-		p5.text("Breakages over time", histogram_center, top_height - 1.5 * row_height - 9);
-		p5.text("Relative to sales, Arbitrary unit", histogram_center, top_height - 1.5 * row_height + 8);
-
-		snippet("Top: Average age before repair", age_center, top_height - 1 * row_height - 9, "age:repair");
-		snippet("Bottom: Average age before dead", age_center, top_height - 1 * row_height + 8, "age:dead");
-
 		//	Bar reasons for breakage
 		let step = bar_width / (selected_problems.length + 1);
 
@@ -310,7 +333,7 @@ export default function(p5)
 		for(let i = 0; i < selected_problems.length; i++)
 		{
 			let color = id_color(2 * i + (2 * i >= selected_problems.length), selected_problems.length, -0.2);
-			snippet(selected_problems[i], 0, i * step, "bar@" + selected_problems[i], p5.LEFT, color, -p5.mouseY + top_height - row_height / 2, p5.mouseX - (bar_left + step / 2));
+			snippet(selected_problems[i], null, 0, i * step, "bar@" + selected_problems[i], p5.LEFT, color, -p5.mouseY + top_height - row_height / 2, p5.mouseX - (bar_left + step / 2));
 		}
 		
 		p5.fill(gray_color(0.6));
@@ -339,6 +362,38 @@ export default function(p5)
 		{
 			p5.line(histogram_left + i * step, top_height + selected_brands.length * (row_height + row_margin), histogram_left + i * step, top_height);
 		}
+		
+		//	Reset stroke
+		p5.noStroke();
+	}
+
+	let draw_foreground_decor = function()
+	{
+		p5.fill(gray_color(0.5));
+		p5.textAlign(p5.CENTER, p5.CENTER);
+		let t;
+
+		//	Section titles
+		t = { width: 400, height: 100, text: "This shows the proportion of reasons for which the devices were sent for repair, for each manufacturer.\n\nUseful if you worry about a specific component." };
+		snippet("Percent of reasons for breakage", t, bar_center, row_height / 2, null);
+
+		p5.text("Percent of", pie_center, top_height - row_height - 9);
+
+		t = { width: 300, height: 100, text: "Percentage of repairs that were successful.\n\nUnsuccessful repairs means the device was dead and had to be throws away." };
+		snippet("successful repairs", t, pie_center, top_height - row_height + 8, "pie");
+
+		snippet("Brand", null, x_center, top_height - row_height, "brand");
+
+		t = { width: 400, height: 115, text: "This shows the number of broken devices each year, relative to sales data for each brand.\n\nBigger histograms indicate a larger number of brolen devices relative to sales data." };
+		snippet("Breakages over time", t, histogram_center, top_height - 1.5 * row_height - 9, null);
+
+		p5.text("Relative to sales, Arbitrary units", histogram_center, top_height - 1.5 * row_height + 8);
+
+		t = { width: 250, height: 70, text: "This shows the average age of a device before it needed repair" };
+		snippet("Top: Average age before repair", t, age_center, top_height - 1 * row_height - 9, "age:repair");
+
+		t = { width: 250, height: 85, text: "This shows the average age of a device before it was dead (unsuccessful repair attempt)" };
+		snippet("Bottom: Average age before dead", t, age_center, top_height - 1 * row_height + 8, "age:dead");
 	}
 
 	/*********************/
@@ -383,6 +438,12 @@ export default function(p5)
 		p5.circle(pie_center, y_center, row_height);
 		p5.fill("green");
 		p5.arc(pie_center, y_center, pie_width, row_height, 0, angle);
+		
+		p5.fill("white");
+		p5.textAlign(p5.CENTER, p5.CENTER);
+		p5.textSize(12);
+		p5.text((100 * aggregate_brand.rows[brand].fields.repaired.counts["Repairable"] / aggregate_brand.rows[brand].count).toFixed(0) + '%', pie_center, y_center);
+		p5.textSize(14);
 	}
 
 	//	Draw brand name
