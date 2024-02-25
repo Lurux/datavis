@@ -6,7 +6,7 @@ export default function(p5)
 	const height = 2000;
 
 	//	Parameters
-	const min_count = 6;
+	const min_count = 0;
 	const num_problems = 10;
 
 	const bar_min_count = 10;
@@ -16,8 +16,6 @@ export default function(p5)
 
 	const bar_problems = 10;
 	const histogram_length = 6;
-
-	const force_show_all = false;
 
 	//	Geometry
 	const row_height = 50;
@@ -32,7 +30,7 @@ export default function(p5)
 	const row_margin = 10;
 	const column_margin = 40;
 	const small_margin = 5;
-	const snippet_padding = 5;
+	const snippet_padding = 10;
 
 	//	Pre-conputed crap
 	const x_center = width / 2;
@@ -91,10 +89,10 @@ export default function(p5)
 
 			data_structured.push({
 				country:		raw_entry.get("Country"),
-				brand:		raw_entry.get("Brand"),
+				brand:			raw_entry.get("Brand"),
 				age:			raw_entry.get("Age"),
 				age_eol:		raw_entry.get("Age EOL"),
-				repaired:	raw_entry.get("Repair status"),
+				repaired:		raw_entry.get("Repair status"),
 				problem:		raw_entry.get("Problem")
 			});
 		}
@@ -131,6 +129,10 @@ export default function(p5)
 		{
 			case "pie":
 				selected_brands.sort((a, b) => {
+					let min_a = pie_min_count <= aggregate_brand.rows[a].count;
+					let min_b = pie_min_count <= aggregate_brand.rows[b].count;
+					if(min_a && !min_b) return -1;
+					if(!min_a && min_b) return 1;
 					let prop_a = aggregate_brand.rows[a].fields.repaired.counts["Repairable"] / aggregate_brand.rows[a].count;
 					let prop_b = aggregate_brand.rows[b].fields.repaired.counts["Repairable"] / aggregate_brand.rows[b].count;
 					return prop_b - prop_a;
@@ -140,13 +142,33 @@ export default function(p5)
 				selected_brands.sort((a, b) => aggregate_brand.rows[b].count - aggregate_brand.rows[a].count);
 				break;
 			case "age:repair":
-				selected_brands.sort((a, b) => aggregate_brand.rows[b].fields.age.average - aggregate_brand.rows[a].fields.age.average);
+				selected_brands.sort((a, b) =>
+				{
+					let min_a = age_min_count <= aggregate_brand.rows[a].fields.age.numeric_count;
+					let min_b = age_min_count <= aggregate_brand.rows[b].fields.age.numeric_count;
+					if(min_a && !min_b) return -1;
+					if(!min_a && min_b) return 1;
+					return aggregate_brand.rows[b].fields.age.average - aggregate_brand.rows[a].fields.age.average;
+				});
 				break;
 			case "age:dead":
 				selected_brands.sort((a, b) => {
+					let min_a = age_min_count <= aggregate_brand.rows[a].fields.age.numeric_count;
+					let min_b = age_min_count <= aggregate_brand.rows[b].fields.age.numeric_count;
+					if(min_a && !min_b) return -1;
+					if(!min_a && min_b) return 1;
 					let prop_a = aggregate_brand.rows[a].fields.repaired.counts["Repairable"] / aggregate_brand.rows[a].count;
 					let prop_b = aggregate_brand.rows[b].fields.repaired.counts["Repairable"] / aggregate_brand.rows[b].count;
 					return prop_b * aggregate_brand.rows[b].fields.age.average - prop_a * aggregate_brand.rows[a].fields.age.average;
+				});
+				break;
+			default:
+				selected_brands.sort((a, b) => {
+					let min_a = bar_min_count <= aggregate_brand.rows[a].count && aggregate_brand.rows[a].fields.problem.counts[lsort];
+					let min_b = bar_min_count <= aggregate_brand.rows[b].count && aggregate_brand.rows[b].fields.problem.counts[lsort];
+					if(min_a && !min_b) return -1;
+					if(!min_a && min_b) return 1;
+					return aggregate_brand.rows[b].fields.problem.counts[lsort] / aggregate_brand.rows[b].count - aggregate_brand.rows[a].fields.problem.counts[lsort] / aggregate_brand.rows[a].count
 				});
 				break;
 		}
@@ -210,7 +232,7 @@ export default function(p5)
 	//	Do nothing and return true if num >= min
 	let check_num = function(min, num, x_center, y_center)
 	{
-		if(!force_show_all && num < min)
+		if(num < min)
 		{
 			p5.fill(gray_color(0.5));
 			p5.textAlign(p5.CENTER, p5.CENTER);
@@ -360,9 +382,6 @@ export default function(p5)
 		p5.circle(pie_center, y_center, row_height);
 		p5.fill("green");
 		p5.arc(pie_center, y_center, pie_width, row_height, 0, angle);
-
-		p5.fill("white");
-		p5.text((100 * aggregate_brand.rows[brand].fields.repaired.counts["Repairable"] / aggregate_brand.rows[brand].count).toFixed(0), pie_center, y_center);
 	}
 
 	//	Draw brand name
