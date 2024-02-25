@@ -6,7 +6,7 @@ export default function(p5)
 	const height = 2000;
 
 	//	Parameters
-	const min_count = 0;
+	const min_count = 6;
 	const num_problems = 10;
 
 	const bar_min_count = 10;
