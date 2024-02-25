@@ -225,7 +225,7 @@ export default function(p5)
 		}
 	
 		p5.colorMode(p5.HSB, max, 1, 1, 1);
-		return p5.color(id, saturation ?? 1, darkness, opacity);
+		return p5.color(id % max, saturation ?? 1, darkness, opacity);
 	};
 	
 	//	Display error text and return false if num < min
@@ -253,14 +253,15 @@ export default function(p5)
 		let y_bound = y - 8;
 
 		if(
-			mouseX > x_bound
-		&&	mouseX < x_bound + w + 2 * snippet_padding
-		&&	mouseY > y_bound
-		&&	mouseY < y_bound + 14 + 2 * snippet_padding
+			hovering == null
+		&&	mouseX > x_bound - snippet_padding
+		&&	mouseX < x_bound + w + snippet_padding
+		&&	mouseY > y_bound - snippet_padding
+		&&	mouseY < y_bound + 14 + snippet_padding
 		)
 		{
-			p5.fill(gray_color(0.2));
-			p5.rect(x_bound - snippet_padding, y_bound - snippet_padding, w + 2 * snippet_padding, 14 + 2 * snippet_padding);
+			p5.fill(gray_color(0.1));
+			p5.rect(x_bound - snippet_padding, y_bound - snippet_padding, w + 2 * snippet_padding, 14 + 2 * snippet_padding, 5);
 			hovering = mark;
 		}
 
@@ -308,7 +309,7 @@ export default function(p5)
 
 		for(let i = 0; i < selected_problems.length; i++)
 		{
-			let color = id_color(i, selected_problems.length, -0.2);
+			let color = id_color(2 * i + (2 * i >= selected_problems.length), selected_problems.length, -0.2);
 			snippet(selected_problems[i], 0, i * step, "bar@" + selected_problems[i], p5.LEFT, color, -p5.mouseY + top_height - row_height / 2, p5.mouseX - (bar_left + step / 2));
 		}
 		
@@ -359,7 +360,7 @@ export default function(p5)
 		{
 			let problem = selected_problems[i];
 			let width = p5.map((aggregate_brand.rows[brand].fields.problem.counts[problem] ?? 0), 0, aggregate_brand.rows[brand].count, 0, bar_width - 2 * small_margin);
-			p5.fill(id_color(i, selected_problems.length, 0.8));
+			p5.fill(id_color(2 * i + (2 * i >= selected_problems.length), selected_problems.length, 0.8));
 			p5.rect(x, y_base + small_margin, width, row_height - 2 * small_margin);
 			x += width;
 		}
