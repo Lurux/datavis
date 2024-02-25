@@ -5,7 +5,7 @@ body {
 	font-family: sans-serif;
 	text-align: center;
 
-	background-color: #0f0f0f;
+	background-color: #1a1a1a;
 	color: white;
 }
 h1 {
@@ -27,7 +27,7 @@ p {
 }
 
 .card {
-	background-color: #0a0a0a;
+	background-color: #0d0d0d;
 	box-shadow: 1px 1px 6px 0px rgba(0, 0, 0, 0.6);
 	border-radius: 8px;
 
@@ -43,14 +43,17 @@ p {
 	text-decoration: none;
 }
 .button.selected {
-	background-color: #0f0f0f;
+	background-color: #262626;
 }
 .button:hover {
-	background-color: #141414;
+	background-color: #333333;
 }
 
 details {
 	padding: 8px;
+}
+summary {
+	display: inline-block;
 }
 summary > * {
 	display: inline;

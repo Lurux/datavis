@@ -1,981 +1,746 @@
-﻿Country,Brand,Age,Repair status,Problem
-ENG,Unknown,"Unknown",Repairable,Broken Screen
-ENG,Unknown,"Unknown",End of Life,Water Damage
-ENG,Unknown,"Unknown",End of Life,Broken Screen
-ENG,Motorola,"Unknown",End of Life,Broken Screen
-ENG,Unknown,"Unknown",End of Life,Water Damage
-ENG,Unknown,"Unknown",End of Life,Broken Screen
-ENG,Unknown,"Unknown",End of Life,Water Damage
-ENG,Unknown,"Unknown",Repairable,Water Damage
-ENG,Unknown,"Unknown",Repairable,Very Slow
-ENG,Samsung,"Unknown",Repairable,Water Damage
-ENG,Unknown,"Unknown",Repairable,Very Slow
-ENG,Apple,"Unknown",Repairable,Broken Screen
-ENG,Apple,"Unknown",Repairable,Broken Screen
-ENG,Samsung,"Unknown",Repairable,Broken Screen
-ENG,Beafon,"Unknown",End of Life,Very Slow
-ENG,Siemens,"Unknown",Repairable,Broken Screen
-ENG,Unknown,"Unknown",Repairable,Not recognized SIM card
-ENG,Huawei,"Unknown",Repairable,Broken Home Button
-ENG,Siemens,"Unknown",Repairable,Broken Screen
-ENG,Unknown,"Unknown",Repairable,Broken Screen
-ENG,Unknown,"Unknown",Repairable,Broken Screen
-ENG,Sony,"Unknown",Repairable,Broken Battery
-ENG,Phillips,"Unknown",End of Life,Broken Home Button
-ENG,Samsung,4,End of Life,Broken Screen
-ENG,Apple,2,Repairable,Broken Charging Socket
-ENG,Siemens,"Unknown",Repairable,Broken Screen
-ENG,Samsung,"Unknown",Repairable,Broken Screen
-ENG,Apple,"Unknown",Repairable,Broken Screen
-ENG,Sony,6,Repairable,Broken Screen
-ENG,Samsung,"Unknown",Repairable,Broken Screen
-ENG,Doogee,"Unknown",Repairable,Broken Screen
-ENG,Huawei,"Unknown",Repairable,Broken Screen
-ENG,Motorola,"Unknown",Repairable,Broken Home Button
-ENG,Samsung,"Unknown",Repairable,Broken Home Button
-ENG,Apple,"Unknown",Repairable,Broken Screen
-ENG,Samsung,"Unknown",Repairable,Broken Screen
-ENG,Samsung,"Unknown",End of Life,Broken Screen
-ENG,Wiko,"Unknown",Repairable,Broken Screen
-ENG,Sony,"Unknown",Repairable,Broken Screen
-ENG,Apple,"Unknown",End of Life,Broken Battery
-ENG,Samsung,"Unknown",Repairable,Broken Screen
-ENG,Samsung,"Unknown",Repairable,Broken Battery
-ENG,Samsung,4,Repairable,Broken Screen
-ENG,Fairphone,"Unknown",Repairable,Broken Screen
-ENG,Oukitel,"Unknown",Repairable,Broken Screen
-ENG,Fairphone,"Unknown",End of Life,Broken Screen
-ENG,Motorola,"Unknown",End of Life,Broken Screen
-ENG,Motorola,2,Repairable,Broken Screen
-ENG,Motorola,"Unknown",End of Life,Broken Screen
-ENG,BQ,2,Repairable,Broken Screen
-ENG,Samsung,7,Repairable,Broken Screen
-ENG,Unknown,"Unknown",End of Life,Defective Keyboard
-ENG,Nokia,"Unknown",End of Life,Defective Keyboard
-ENG,Huawei,"Unknown",Repairable,Water Damage
-ENG,Samsung,"Unknown",Repairable,Broken Screen
-ENG,Samsung,"Unknown",Repairable,Broken Screen
-ENG,Unknown,"Unknown",End of Life,Broken Screen
-ENG,Sony,10,End of Life,Water Damage
-ENG,Sony,10,End of Life,Water Damage
-ENG,Apple,5,Repairable,Water Damage
-ENG,ZTE,"Unknown",Repairable,Water Damage
-ENG,Apple,5,Repairable,Broken Screen
-ENG,Apple,"Unknown",Repairable,Water Damage
-ENG,Unknown,"Unknown",End of Life,Broken Screen
-ENG,Kodak,3,End of Life,Broken Screen
-ENG,Motorola,6,End of Life,Water Damage
-ENG,Unknown,"Unknown",Repairable,Broken Charging Socket
-ENG,Unknown,"Unknown",Repairable,Broken Screen
-ENG,Unknown,"Unknown",Repairable,Broken Battery
-ENG,Unknown,"Unknown",Repairable,Broken Battery
-ENG,Samsung,"Unknown",End of Life,Broken Screen
-ENG,Huawei,5,Repairable,Broken Screen
-ENG,Siemens,20,End of Life,Broken Screen
-ENG,Unknown,"Unknown",Repairable,Broken Screen
-ENG,Telecom,"Unknown",End of Life,Broken Screen
-ENG,Unknown,"Unknown",Repairable,Broken Charging Socket
-ENG,Huawei,"Unknown",Repairable,Broken Screen
-ENG,Okano,"Unknown",Repairable,Broken Home Button
-ENG,Apple,"Unknown",End of Life,Broken Screen
-ENG,Elephone,3,Repairable,Broken Screen
-ENG,Amplicomms,"Unknown",Repairable,Broken Screen
-ENG,Wiko,"Unknown",Repairable,Broken Screen
-ENG,Fairphone,2,Repairable,Broken Screen
-ENG,Unknown,"Unknown",Repairable,Defective Keyboard
-ENG,Samsung,4,Repairable,Broken Home Button
-ENG,Xiaomi,"Unknown",End of Life,Broken Screen
-ENG,Bosch,29,Repairable,Broken Screen
-ENG,Samsung,6,Repairable,Broken Screen
-ENG,Sony,4,Repairable,Broken Screen
-ENG,Huawei,"Unknown",Repairable,Broken Screen
-ENG,Unknown,"Unknown",Repairable,Water Damage
-ENG,Unknown,1,Repairable,Broken Screen
-ENG,Apple,"Unknown",End of Life,Very Slow
-ENG,Apple,"Unknown",Repairable,Broken Screen
-ENG,Unknown,"Unknown",Repairable,Broken Screen
-ENG,Wiko,"Unknown",End of Life,Full Memory
-ENG,Unknown,"Unknown",End of Life,Broken Screen
-ENG,Samsung,"Unknown",End of Life,Broken Screen
-ENG,Huawei,"Unknown",Repairable,Broken Screen
-ENG,Panasonic,"Unknown",End of Life,Faulty Software
-ENG,Siemens,"Unknown",Repairable,Broken Battery
-ENG,AVM,"Unknown",Repairable,Charging Issues
-ENG,Unknown,"Unknown",End of Life,Broken Screen
-ENG,Unknown,"Unknown",End of Life,Not recognized SIM card
-ENG,Unknown,"Unknown",End of Life,Fully Destroyed/Burned
-ENG,Samsung,"Unknown",End of Life,Broken Screen
-ENG,Unknown,"Unknown",Repairable,Faulty Software
-ENG,Huawei,"Unknown",Repairable,Broken Screen
-ENG,Unknown,"Unknown",Repairable,Broken Screen
-ENG,Samsung,3,Repairable,Broken Screen
-ENG,Huawei,3,Repairable,Broken Screen
-ENG,Samsung,10,Repairable,Broken Charging Socket
-ENG,Apple,"Unknown",Repairable,Broken Home Button
-ENG,Apple,3,Repairable,Broken Home Button
-ENG,Xiaomi,4,Repairable,Broken Screen
-ENG,AVM,10,Repairable,Broken Battery
-ENG,Unknown,"Unknown",End of Life,Broken Camera
-ENG,Unknown,"Unknown",Repairable,Broken Screen
-ENG,Samsung,9,Repairable,Broken Screen
-ENG,Nokia,5,End of Life,Broken Screen
-ENG,Unknown,"Unknown",Repairable,Broken Battery
-ENG,Honor,4,Repairable,Broken Screen
-ENG,Huawei,"Unknown",Repairable,Broken Screen
-ENG,Unknown,"Unknown",Repairable,Broken Screen
-ENG,Xiaomi,2,Repairable,Broken Screen
-ENG,Unknown,"Unknown",End of Life,Broken Screen
-ENG,Unknown,"Unknown",Repairable,Faulty Software
-ENG,Samsung,6,Repairable,Broken Screen
-ENG,Unknown,"Unknown",End of Life,Defective Keyboard
-ENG,Beafon,5,End of Life,Broken Screen
-ENG,Samsung,3,Repairable,Broken Screen
-ENG,Samsung,4,End of Life,Faulty Software
-ENG,Unknown,"Unknown",Repairable,Broken Screen
-ENG,Grundig,"Unknown",Repairable,Broken Screen
-ENG,Unknown,"Unknown",End of Life,Broken Screen
-ENG,Unknown,"Unknown",Repairable,Faulty Software
-ENG,Nokia,20,End of Life,Broken Battery
-ENG,Huawei,"Unknown",Repairable,Broken Screen
-ENG,Sony,"Unknown",End of Life,Broken Screen
-ENG,Oukitel,"Unknown",Repairable,Faulty Software
-ENG,Bakelite,"Unknown",End of Life,Broken Camera
-ENG,OnePlus,"Unknown",End of Life,Water Damage
-ENG,Huawei,4,Repairable,Broken Battery
-ENG,Gigaset,10,End of Life,Broken Screen
-ENG,Unknown,"Unknown",End of Life,Broken Screen
-ENG,Gigaset,12,Repairable,Broken Screen
-ENG,Fritzbox,"Unknown",End of Life,Broken Home Button
-ENG,Unknown,"Unknown",Repairable,Fully Destroyed/Burned
-ENG,Unknown,"Unknown",Repairable,Broken Screen
-ENG,ZTE,1,Repairable,Very Slow
-ENG,Unknown,"Unknown",End of Life,Broken Screen
-ENG,Unknown,"Unknown",End of Life,Broken Screen
-ENG,Huawei,5,Repairable,Faulty Software
-ENG,Unknown,"Unknown",End of Life,Very Slow
-ENG,Unknown,"Unknown",End of Life,Faulty Software
-ENG,Unknown,"Unknown",Repairable,Faulty Software
-ENG,Sony,7,End of Life,Broken Screen
-ENG,Shift Phone,3,Repairable,Not recognized SIM card
-ENG,Unknown,"Unknown",Repairable,Broken Screen
-ENG,Huawei,3,Repairable,Broken Battery
-ENG,Huawei,3,Repairable,Water Damage
-ENG,Apple,6,Repairable,Broken Screen
-ENG,Doro,"Unknown",End of Life,Broken Battery
-ENG,Unknown,"Unknown",Repairable,Broken Screen
-ENG,Unknown,"Unknown",End of Life,Defective Keyboard
-ENG,Unknown,"Unknown",End of Life,Broken Screen
-ENG,LG,4,Repairable,Broken Charging Socket
-ENG,Samsung,7,Repairable,Defective Keyboard
-ENG,Siemens,6,Repairable,Defective Keyboard
-ENG,Apple,5,Repairable,Broken Screen
-ENG,Ulefone,4,End of Life,Broken Screen
-ENG,Samsung,6,End of Life,Broken Screen
-ENG,Apple,"Unknown",Repairable,Broken Battery
-ENG,Unknown,"Unknown",End of Life,Broken Battery
-ENG,Apple,7,Repairable,Broken Screen
-ENG,Oukitel,5,End of Life,Broken Screen
-AUT,Unknown,"Unknown",End of Life,Very Slow
-FRA,Samsung,"Unknown",End of Life,Faulty Software
-GBR,Apple,"Unknown",End of Life,Water Damage
-ENG,HTC,5,Repairable,Faulty Software
-FRA,Apple,11,End of Life,Faulty Software
-NLD,Unknown,"Unknown",End of Life,Faulty Software
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-FRA,Honor,5,Repairable,Broken Home Button
-FRA,Samsung,"Unknown",Repairable,Faulty Software
-GBR,Realme,"Unknown",End of Life,Fully Destroyed/Burned
-FRA,Samsung,11,End of Life,Faulty Software
-ESP,Samsung,5,Repairable,Fully Destroyed/Burned
-ENG,Nokia,12,Repairable,Faulty Software
-FRA,Samsung,"Unknown",Repairable,Broken Screen
-NLD,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Samsung,3,Repairable,Water Damage
-GBR,Apple,"Unknown",Repairable,Broken Screen
-NLD,Unknown,"Unknown",Repairable,Broken Camera
-GBR,Honor,3,Repairable,Broken Screen
-GBR,Sony,8,Repairable,Broken Battery
-FRA,Samsung,"Unknown",Repairable,Charging Issues
-GBR,Unknown,"Unknown",Repairable,Broken Home Button
-NLD,Apple,"Unknown",Repairable,Broken Screen
-NLD,Unknown,"Unknown",End of Life,Full Memory
-NLD,Apple,6,End of Life,Broken Screen
-NLD,Nokia,5,Repairable,Broken Home Button
-NLD,Lebara,"Unknown",Repairable,Broken Screen
-NLD,Noro,2,End of Life,Broken Battery
-NLD,Wiko,0,End of Life,Charging Issues
-NLD,PTT Telecom,23,End of Life,Defective Keyboard
-NLD,Motorola,5,Repairable,Broken Screen
-NLD,Unknown,18,End of Life,Broken Screen
-NLD,Apple,3,Repairable,Not recognized SIM card
-NLD,Samsung,20,Repairable,Broken Screen
-NLD,Prophone,"Unknown",Repairable,Defective Keyboard
-GBR,Alcatel,7,Repairable,Very Slow
-FRA,Essential b,"Unknown",End of Life,Faulty Software
-FRA,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,1,Repairable,Broken Screen
-NLD,Wiko,"Unknown",End of Life,Broken Screen
-GBR,Alcatel,"Unknown",Repairable,Broken Screen
-FRA,Samsung,"Unknown",End of Life,Broken Home Button
-NLD,Samsung,5,Repairable,Broken Camera
-FRA,Apple,10,End of Life,Very Slow
-FRA,Samsung,6,End of Life,Broken Screen
-FRA,Apple,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-NLD,Apple,"Unknown",End of Life,Broken Screen
-FRA,Wiko,"Unknown",End of Life,Full Memory
-FRA,Huawei,2,End of Life,Broken Screen
-FRA,Samsung,"Unknown",End of Life,Broken Battery
-NLD,Samsung,5,Repairable,Broken Camera
-ESP,Samsung,6,End of Life,Water Damage
-ESP,Xiaomi,"Unknown",End of Life,Faulty Software
-ESP,Samsung,8,Repairable,Water Damage
-FRA,Nokia,"Unknown",End of Life,Faulty Software
-GBR,Apple,6,Repairable,Broken Screen
-NLD,Apple,"Unknown",Repairable,Charging Issues
-NLD,Samsung,5,Repairable,Broken Battery
-NLD,Huawei,"Unknown",End of Life,Very Slow
-GBR,Apple,"Unknown",End of Life,Broken Screen
-NLD,Alcatel,8,End of Life,Broken Screen
-FRA,Samsung,5,End of Life,Faulty Software
-NLD,Huawei,3,Repairable,Broken Screen
-GBR,Sony,"Unknown",End of Life,Broken Screen
-FRA,Nokia,"Unknown",Repairable,Defective Keyboard
-NLD,Samsung,5,End of Life,Charging Issues
-NLD,Samsung,"Unknown",Repairable,Broken Camera
-NLD,Unknown,2,Repairable,Broken Home Button
-FRA,Nokia,11,End of Life,Defective Keyboard
-FRA,Samsung,"Unknown",End of Life,Broken Home Button
-NLD,Apple,"Unknown",End of Life,Broken Home Button
-GBR,Unknown,"Unknown",End of Life,Broken Screen
-NLD,Fairphone,"Unknown",End of Life,Water Damage
-GBR,Unknown,"Unknown",End of Life,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Charging Socket
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-FRA,Nokia,"Unknown",Repairable,Faulty Software
-FRA,Unknown,"Unknown",Repairable,Full Memory
-FRA,Unknown,"Unknown",Repairable,Faulty Software
-FRA,Unknown,"Unknown",Repairable,Broken Screen
-FRA,Unknown,"Unknown",End of Life,Broken Screen
-FRA,Unknown,"Unknown",Repairable,Full Memory
-FRA,Apple,"Unknown",Repairable,Broken Home Button
-NLD,Unknown,6,Repairable,Very Slow
-NLD,Apple,4,End of Life,Not recognized SIM card
-NLD,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Unknown,"Unknown",End of Life,Broken Battery
-NLD,Samsung,"Unknown",End of Life,Broken Battery
-NLD,Huawei,5,End of Life,Broken Battery
-FRA,Unknown,"Unknown",End of Life,Broken Screen
-GBR,Huawei,1,Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Camera
-GBR,Samsung,"Unknown",End of Life,Faulty Software
-GBR,Samsung,"Unknown",Repairable,Charging Issues
-NLD,Apple,"Unknown",End of Life,Broken Home Button
-ENG,Samsung,"Unknown",End of Life,Faulty Software
-NLD,Apple,"Unknown",End of Life,Broken Screen
-ENG,Samsung,"Unknown",End of Life,Broken Screen
-NLD,Samsung,4,Repairable,Broken Screen
-NLD,Apple,5,End of Life,Broken Screen
-NLD,Apple,3,End of Life,Defective Keyboard
-GBR,Motorola,"Unknown",End of Life,Broken Battery
-NLD,Unknown,"Unknown",End of Life,Broken Home Button
-NLD,Apple,4,Repairable,Broken Battery
-NLD,Nokia,20,End of Life,Charging Issues
-NLD,Samsung,"Unknown",End of Life,Broken Screen
-FRA,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Motorola,"Unknown",Repairable,Broken Screen
-NLD,Huawei,3,End of Life,Broken Screen
-NLD,LG,9,End of Life,Broken Screen
-NLD,Microsoft,19,End of Life,Broken Camera
-NLD,Nokia,"Unknown",End of Life,Broken Screen
-GBR,Apple,4,Repairable,Broken Screen
-NLD,Samsung,"Unknown",Repairable,Broken Camera
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Nokia,"Unknown",End of Life,Not recognized SIM card
-GBR,Nokia,"Unknown",End of Life,Broken Screen
-NLD,Dora,"Unknown",End of Life,Broken Camera
-GBR,Motorola,1,Repairable,Broken Screen
-ENG,Huawei,"Unknown",End of Life,Water Damage
-NLD,Apple,"Unknown",Repairable,Broken Screen
-NLD,Samsung,1,End of Life,Faulty Software
-NLD,Samsung,"Unknown",Repairable,Broken Home Button
-NLD,Samsung,4,End of Life,Broken Battery
-NLD,Samsung,3,End of Life,Broken Home Button
-NLD,Huawei,8,End of Life,Broken Screen
-NLD,Alcatel,9,End of Life,Charging Issues
-NLD,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Charging Socket
-GBR,Apple,"Unknown",Repairable,Broken Charging Socket
-NLD,Apple,3,Repairable,Broken Battery
-NLD,Samsung,2,Repairable,Broken Screen
-NLD,Samsung,"Unknown",Repairable,Broken Screen
-NLD,LG,"Unknown",Repairable,Not recognized SIM card
-NLD,Fairphone,3,End of Life,Broken Camera
-NLD,Samsung,"Unknown",Repairable,Charging Issues
-NLD,Unknown,2,End of Life,Broken Home Button
-NLD,Samsung,"Unknown",Repairable,Broken Screen
-NLD,Motorola,1,Repairable,Defective Keyboard
-NLD,Samsung,"Unknown",Repairable,Broken Screen
-NLD,HTC,"Unknown",Repairable,Broken Screen
-NLD,TipTel,"Unknown",Repairable,Broken Screen
-NLD,Apple,0,End of Life,Over Heating
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-NLD,Apple,"Unknown",Repairable,Defective Keyboard
-NLD,Apple,"Unknown",Repairable,Broken Screen
-NLD,Samsung,"Unknown",End of Life,Broken Screen
-NLD,Ebench,11,End of Life,Defective Keyboard
-NLD,Dattfield,"Unknown",End of Life,Full Memory
-NLD,PTT Telecom,30,End of Life,Over Heating
-NLD,Apple,5,Repairable,Fully Destroyed/Burned
-GBR,Sony,3,Repairable,Broken Screen
-NLD,Samsung,"Unknown",Repairable,Broken Screen
-NLD,Huawei,3,Repairable,Water Damage
-NLD,Samsung,1,End of Life,Broken Screen
-NLD,Samsung,4,Repairable,Broken Camera
-NLD,Nokia,"Unknown",Repairable,Broken Screen
-NLD,Apple,6,Repairable,Charging Issues
-NLD,Samsung,1,Repairable,Broken Camera
-NLD,Apple,"Unknown",Repairable,Faulty Software
-NLD,Samsung,17,Repairable,Broken Screen
-NLD,Microsoft,1,End of Life,Broken Battery
-NLD,Nexus,"Unknown",End of Life,Broken Screen
-NLD,Microsoft,1,Repairable,Broken Camera
-NLD,Apple,8,Repairable,Broken Screen
-NLD,Apple,"Unknown",Repairable,Defective Keyboard
-NLD,Apple,4,Repairable,Broken Camera
-NLD,Apple,"Unknown",Repairable,Water Damage
-NLD,General Mobile,1,Repairable,Broken Screen
-NLD,Huawei,1,Repairable,Very Slow
-NLD,Samsung,"Unknown",Repairable,Broken Camera
-NLD,Samsung,1,Repairable,Broken Home Button
-NLD,Samsung,"Unknown",End of Life,Broken Screen
-NLD,Sony,6,End of Life,Water Damage
-NLD,Sony,"Unknown",Repairable,Water Damage
-NLD,Sony,"Unknown",End of Life,Broken Screen
-NLD,Apple,1,End of Life,Broken Screen
-NLD,Swing,17,Repairable,Broken Home Button
-GBR,Apple,"Unknown",Repairable,Broken Home Button
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Motorola,"Unknown",End of Life,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Sony,"Unknown",Repairable,Broken Screen
-GBR,ZTE,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",End of Life,Broken Screen
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",End of Life,Not recognized SIM card
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",End of Life,Broken Battery
-GBR,Google,"Unknown",End of Life,Broken Home Button
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Home Button
-GBR,Apple,"Unknown",Repairable,Broken Home Button
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Apple,"Unknown",End of Life,Broken Screen
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Unknown,"Unknown",End of Life,Broken Screen
-GBR,Apple,"Unknown",End of Life,Broken Screen
-GBR,HTC,"Unknown",End of Life,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Motorola,"Unknown",Repairable,Broken Screen
-GBR,Nokia,"Unknown",End of Life,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,HTC,"Unknown",End of Life,Broken Home Button
-GBR,Unknown,"Unknown",Repairable,Broken Camera
-GBR,Unknown,"Unknown",End of Life,Broken Camera
-GBR,Unknown,"Unknown",End of Life,Broken Camera
-GBR,Apple,"Unknown",End of Life,Water Damage
-GBR,Nokia,"Unknown",Repairable,Broken Home Button
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",End of Life,Broken Screen
-GBR,HTC,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,HTC,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",End of Life,Broken Screen
-GBR,BlackBerry,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",End of Life,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,BlackBerry,"Unknown",End of Life,Charging Issues
-GBR,Unknown,"Unknown",Repairable,Broken Home Button
-GBR,Motorola,"Unknown",End of Life,Broken Battery
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Full Memory
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Faulty Software
-GBR,Apple,"Unknown",Repairable,Water Damage
-GBR,Apple,"Unknown",Repairable,Very Slow
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,LG,"Unknown",Repairable,Broken Screen
-GBR,Sony,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",End of Life,Humidity Problem
-GBR,LP,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Home Button
-GBR,Nokia,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Camera
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Full Memory
-GBR,Samsung,"Unknown",End of Life,Full Memory
-GBR,Nokia,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Defective Keyboard
-GBR,Apple,"Unknown",Repairable,Broken Camera
-GBR,Samsung,"Unknown",Repairable,Broken Camera
-GBR,Google,"Unknown",Repairable,Full Memory
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Nokia,"Unknown",Repairable,Broken Charging Socket
-GBR,Sony,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Fairphone,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Motorola,"Unknown",Repairable,Not recognized SIM card
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Very Slow
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Fairphone,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Nokia,"Unknown",Repairable,Broken Screen
-GBR,Nokia,"Unknown",Repairable,Broken Charging Socket
-GBR,Samsung,"Unknown",Repairable,Not recognized SIM card
-GBR,Samsung,"Unknown",Repairable,Broken Camera
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Fairphone,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Fully Destroyed/Burned
-GBR,Apple,"Unknown",End of Life,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Faulty Software
-GBR,Motorola,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",End of Life,Broken Screen
-GBR,Sony,"Unknown",End of Life,Broken Screen
-GBR,Sony,"Unknown",End of Life,Faulty Software
-GBR,Apple,"Unknown",End of Life,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,HTC,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",End of Life,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Sony,"Unknown",Repairable,Broken Charging Socket
-GBR,BlackBerry,"Unknown",Repairable,Not recognized SIM card
-GBR,BlackBerry,"Unknown",End of Life,Faulty Software
-GBR,Nokia,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Nokia,"Unknown",End of Life,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,HTC,"Unknown",Repairable,Broken Charging Socket
-GBR,Samsung,"Unknown",Repairable,Very Slow
-GBR,Unknown,"Unknown",Repairable,Broken Home Button
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Nokia,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",End of Life,Broken Screen
-NOR,Samsung,"Unknown",Repairable,Broken Screen
-NOR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Nokia,"Unknown",End of Life,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",End of Life,Water Damage
-GBR,Motorola,"Unknown",Repairable,Full Memory
-GBR,Apple,"Unknown",Repairable,Defective Keyboard
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",End of Life,Broken Battery
-GBR,Motorola,"Unknown",End of Life,Faulty Software
-GBR,Motorola,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Charging Issues
-GBR,HTC,"Unknown",End of Life,Broken Battery
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Charging Socket
-GBR,Fairphone,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Motorola,"Unknown",Repairable,Broken Screen
-ITA,Unknown,"Unknown",Repairable,Very Slow
-GBR,Apple,"Unknown",Repairable,Broken Home Button
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-ITA,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Samsung,"Unknown",End of Life,Not recognized SIM card
-ESP,Unknown,"Unknown",Repairable,Broken Home Button
-GBR,Apple,"Unknown",Repairable,Very Slow
-ESP,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Nokia,"Unknown",Repairable,Broken Screen
-GBR,HTC,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-NOR,Fairphone,"Unknown",Repairable,Broken Screen
-NOR,Sony,"Unknown",Repairable,Broken Screen
-NOR,Apple,"Unknown",Repairable,Broken Screen
-NOR,Apple,"Unknown",Repairable,Broken Screen
-GBR,LG,"Unknown",End of Life,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Microsoft,"Unknown",Repairable,Broken Screen
-NOR,Apple,"Unknown",Repairable,Broken Screen
-NOR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-ITA,Samsung,"Unknown",Repairable,Broken Camera
-GBR,Samsung,"Unknown",End of Life,Very Slow
-NOR,Sony,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",End of Life,Broken Screen
-ITA,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Full Memory
-ESP,Apple,"Unknown",Repairable,Broken Camera
-IRL,Apple,"Unknown",Repairable,Broken Home Button
-ESP,Sony,"Unknown",Repairable,Water Damage
-ITA,Samsung,"Unknown",Repairable,Broken Screen
-ITA,LG,"Unknown",Repairable,Broken Screen
-ITA,Samsung,"Unknown",Repairable,Broken Screen
-ESP,Unknown,"Unknown",End of Life,Broken Screen
-ESP,Unknown,"Unknown",End of Life,Broken Screen
-ESP,Unknown,"Unknown",Repairable,Broken Screen
-ESP,Unknown,"Unknown",Repairable,Broken Camera
-ESP,Samsung,"Unknown",End of Life,Broken Camera
-NOR,Apple,"Unknown",Repairable,Humidity Problem
-NOR,Apple,"Unknown",End of Life,Humidity Problem
-NOR,Apple,"Unknown",Repairable,Humidity Problem
-NOR,Apple,"Unknown",End of Life,Humidity Problem
-GBR,Samsung,"Unknown",Repairable,Broken Home Button
-ITA,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",End of Life,Faulty Software
-GBR,Apple,"Unknown",Repairable,Broken Home Button
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Full Memory
-GBR,LG,"Unknown",End of Life,Broken Battery
-GBR,Apple,"Unknown",Repairable,Humidity Problem
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Camera
-GBR,Samsung,"Unknown",Repairable,Faulty Software
-ITA,LG,"Unknown",End of Life,Over Heating
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",End of Life,Broken Screen
-GBR,Motorola,3,Repairable,Broken Screen
-GBR,Apple,"Unknown",End of Life,Broken Screen
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Apple,"Unknown",End of Life,Broken Screen
-GBR,Nokia,"Unknown",Repairable,Over Heating
-GBR,Sony,"Unknown",End of Life,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Sony,0.5,Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-NOR,Samsung,4,Repairable,Over Heating
-GBR,Unknown,"Unknown",Repairable,Broken Home Button
-GBR,Apple,"Unknown",Repairable,Broken Battery
-NOR,Fairphone,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Camera
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Not recognized SIM card
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-NOR,Sony,"Unknown",Repairable,Broken Screen
-NOR,Apple,2,End of Life,Water Damage
-GBR,Apple,"Unknown",End of Life,Broken Screen
-GBR,Nokia,0.2,Repairable,Full Memory
-GBR,Nokia,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Motorola,3,Repairable,Broken Screen
-GBR,Motorola,"Unknown",End of Life,Broken Battery
-GBR,Sony,4,Repairable,Broken Home Button
-GBR,Apple,3,Repairable,Water Damage
-GBR,Nokia,"Unknown",Repairable,Broken Screen
-NOR,Doro,"Unknown",Repairable,Broken Battery
-GBR,Samsung,1.5,Repairable,Broken Screen
-GBR,Apple,2,Repairable,Broken Screen
-GBR,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Motorola,"Unknown",Repairable,Broken Screen
-GBR,Samsung,0.8,Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Charging Issues
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Google,"Unknown",End of Life,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Charging Socket
-GBR,LG,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Water Damage
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Samsung,3,Repairable,Broken Screen
-GBR,Sony,3,Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Samsung,4,Repairable,Broken Screen
-GBR,Samsung,3,End of Life,Broken Screen
-GBR,Samsung,1,Repairable,Broken Screen
-GBR,LG,3,Repairable,Broken Screen
-GBR,OnePlus,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Apple,3,Repairable,Broken Screen
-GBR,Apple,2,Repairable,Broken Screen
-GBR,Apple,3,Repairable,Broken Screen
-ITA,Samsung,3,End of Life,Broken Screen
-ITA,Lenovo,1,Repairable,Broken Screen
-ITA,Samsung,5,Repairable,Broken Screen
-SWE,Apple,3,Repairable,Broken Screen
-ITA,Samsung,4,End of Life,Broken Screen
-GBR,Samsung,1,Repairable,Broken Home Button
-NOR,Samsung,8,End of Life,Broken Charging Socket
-NOR,Apple,5,End of Life,Broken Screen
-SWE,Samsung,"Unknown",Repairable,Broken Screen
-SWE,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-ITA,Asus,2,End of Life,Very Slow
-ITA,Huawei,1.5,Repairable,Broken Screen
-SWE,Apple,"Unknown",End of Life,Broken Screen
-GBR,Samsung,6,End of Life,Broken Screen
-GBR,Samsung,5,Repairable,Broken Screen
-GBR,Microsoft,1.5,End of Life,Broken Screen
-GBR,Apple,3,End of Life,Water Damage
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Home Button
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Home Button
-GBR,LG,"Unknown",Repairable,Not recognized SIM card
-GBR,Apple,"Unknown",Repairable,Broken Home Button
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Apple,3,End of Life,Broken Screen
-GBR,Fairphone,"Unknown",Repairable,Broken Screen
-NOR,Motorola,1,Repairable,Broken Screen
-ITA,Asus,2,Repairable,Broken Screen
-ITA,Asus,2,End of Life,Broken Screen
-ITA,Unknown,6,Repairable,Broken Screen
-ITA,Samsung,4,Repairable,Broken Screen
-GBR,Unknown,"Unknown",End of Life,Broken Home Button
-GBR,Samsung,5,Repairable,Broken Camera
-SWE,Apple,"Unknown",Repairable,Broken Screen
-GBR,Unknown,1,Repairable,Broken Screen
-ITA,Samsung,"Unknown",Repairable,Broken Screen
-ITA,Unknown,"Unknown",Repairable,Broken Home Button
-ITA,Huawei,"Unknown",Repairable,Broken Battery
-GBR,Apple,4,Repairable,Broken Screen
-GBR,Apple,5,End of Life,Broken Screen
-GBR,Unknown,2,Repairable,Broken Home Button
-SWE,Apple,4,Repairable,Broken Screen
-IRL,Apple,"Unknown",Repairable,Broken Screen
-IRL,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,2,Repairable,Broken Screen
-SWE,Apple,2,Repairable,Broken Screen
-GBR,Samsung,7,Repairable,Broken Screen
-GBR,Acer,2,Repairable,Broken Screen
-BEL,Apple,2,Repairable,Broken Screen
-BEL,Apple,2,Repairable,Broken Screen
-IRL,Apple,"Unknown",Repairable,Defective Keyboard
-IRL,Sony,"Unknown",Repairable,Humidity Problem
-BEL,Apple,6,Repairable,Broken Screen
-ITA,Apple,7,Repairable,Charging Issues
-ITA,Samsung,4,Repairable,Broken Screen
-NOR,Apple,2,Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-SWE,Huawei,3,Repairable,Broken Screen
-BEL,Siemens,"Unknown",End of Life,Very Slow
-GBR,Unknown,"Unknown",Repairable,Fully Destroyed/Burned
-SWE,Apple,"Unknown",Repairable,Broken Charging Socket
-IRL,Samsung,"Unknown",Repairable,Broken Screen
-IRL,Samsung,"Unknown",Repairable,Broken Screen
-IRL,Apple,"Unknown",Repairable,Broken Screen
-IRL,Samsung,"Unknown",Repairable,Broken Screen
-ITA,Apple,"Unknown",Repairable,Broken Screen
-BEL,Motorola,5,Repairable,Full Memory
-BEL,Huawei,"Unknown",Repairable,Broken Screen
-GBR,Samsung,2,Repairable,Broken Battery
-BEL,Unknown,"Unknown",Repairable,Faulty Software
-SWE,Samsung,4,End of Life,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-ITA,Unknown,"Unknown",Repairable,Broken Screen
-BEL,Unknown,2,Repairable,Broken Home Button
-GBR,Nexus,8,Repairable,Broken Screen
-ITA,Apple,6,End of Life,Broken Camera
-ITA,Apple,"Unknown",Repairable,Broken Screen
-IRL,Apple,"Unknown",Repairable,Humidity Problem
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-IRL,Samsung,"Unknown",Repairable,Broken Screen
-IRL,Samsung,"Unknown",Repairable,Broken Screen
-IRL,Samsung,"Unknown",Repairable,Broken Screen
-SWE,Apple,2.5,Repairable,Broken Screen
-NOR,Samsung,2,Repairable,Broken Battery
-NOR,Apple,0.5,Repairable,Broken Battery
-NOR,Apple,3.5,End of Life,Faulty Software
-NOR,LG,0.5,Repairable,Broken Screen
-NOR,Apple,3,Repairable,Broken Screen
-NOR,Samsung,2,Repairable,Fully Destroyed/Burned
-NOR,Apple,3,Repairable,Broken Screen
-NOR,Microsoft,3,Repairable,Broken Screen
-NOR,Apple,2.5,Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Home Button
-GBR,Motorola,"Unknown",End of Life,Faulty Software
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,NUU,"Unknown",Repairable,Faulty Software
-GBR,NUU,2,Repairable,Broken Screen
-GBR,Unknown,"Unknown",End of Life,Broken Screen
-SWE,Samsung,5,Repairable,Broken Screen
-SWE,Samsung,5,End of Life,Broken Screen
-SWE,Samsung,7,End of Life,Broken Screen
-ITA,Unknown,"Unknown",Repairable,Broken Screen
-IRL,Apple,5,Repairable,Broken Screen
-IRL,Fairphone,"Unknown",Repairable,Broken Screen
-IRL,Apple,"Unknown",Repairable,Broken Screen
-SWE,Samsung,2,Repairable,Broken Screen
-SWE,Samsung,5,End of Life,Broken Screen
-SWE,Samsung,7,End of Life,Broken Screen
-SWE,Samsung,5,Repairable,Broken Charging Socket
-SWE,Samsung,5,Repairable,Broken Charging Socket
-NOR,Apple,4,Repairable,Broken Screen
-GBR,Fairphone,3,Repairable,Faulty Software
-GBR,Unknown,2,Repairable,Broken Screen
-GBR,Huawei,2,Repairable,Broken Screen
-GBR,Unknown,"Unknown",End of Life,Full Memory
-GBR,ZTE,2,Repairable,Broken Screen
-GBR,Apple,3,Repairable,Broken Home Button
-GBR,Samsung,"Unknown",End of Life,Fully Destroyed/Burned
-NOR,Apple,2,Repairable,Broken Screen
-BEL,Unknown,"Unknown",Repairable,Broken Screen
-BEL,Unknown,"Unknown",Repairable,Broken Screen
-BEL,Unknown,"Unknown",Repairable,Very Slow
-ESP,BQ,"Unknown",Repairable,Broken Screen
-GBR,Nokia,8,Repairable,Broken Battery
-GBR,Apple,2,Repairable,Broken Screen
-GBR,Nokia,2,Repairable,Humidity Problem
-GBR,Motorola,6,End of Life,Broken Home Button
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Microsoft,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",End of Life,Very Slow
-GBR,Unknown,"Unknown",End of Life,Broken Screen
-GBR,Google,6,Repairable,Broken Home Button
-SWE,Samsung,2,Repairable,Broken Screen
-GBR,Unknown,5,Repairable,Water Damage
-BEL,Unknown,"Unknown",End of Life,Broken Screen
-NOR,Sony,2,Repairable,Broken Screen
-NOR,Unknown,"Unknown",Repairable,Broken Screen
-NOR,Apple,2.5,Repairable,Broken Screen
-NOR,Apple,3.5,Repairable,Broken Screen
-NOR,Apple,1,Repairable,Broken Screen
-NOR,Samsung,2.5,Repairable,Broken Screen
-NOR,Apple,2,Repairable,Broken Screen
-NOR,Asus,2,Repairable,Broken Screen
-NOR,Samsung,4,Repairable,Very Slow
-NOR,Motorola,2,Repairable,Broken Screen
-GBR,Unknown,"Unknown",End of Life,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Faulty Software
-BEL,Unknown,"Unknown",Repairable,Faulty Software
-ITA,Samsung,"Unknown",End of Life,Broken Screen
-SWE,Fairphone,4,Repairable,Charging Issues
-NOR,Huawei,4,Repairable,Broken Screen
-ESP,Samsung,"Unknown",Repairable,Broken Screen
-ESP,Wiko,"Unknown",Repairable,Broken Screen
-ESP,Samsung,"Unknown",Repairable,Broken Screen
-ESP,Unknown,"Unknown",Repairable,Very Slow
-ESP,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Vodafone,7,Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Apple,10,Repairable,Broken Camera
-GBR,Apple,"Unknown",Repairable,Broken Screen
-BEL,Huawei,"Unknown",Repairable,Faulty Software
-ESP,Xiaomi,2.5,Repairable,Broken Screen
-BEL,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Fairphone,"Unknown",Repairable,Full Memory
-NOR,Samsung,3,Repairable,Broken Home Button
-NOR,Samsung,5,Repairable,Broken Screen
-NOR,Apple,4,Repairable,Broken Screen
-BEL,Unknown,"Unknown",End of Life,Broken Screen
-ITA,Samsung,"Unknown",End of Life,Broken Screen
-GBR,Samsung,5,End of Life,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Charging Socket
-GBR,Samsung,1,Repairable,Water Damage
-GBR,Samsung,10,Repairable,Very Slow
-GBR,Nokia,"Unknown",End of Life,Broken Screen
-SWE,Samsung,5,End of Life,Broken Home Button
-SWE,Apple,6,Repairable,Broken Screen
-BEL,Samsung,4,Repairable,Very Slow
-BEL,Nokia,"Unknown",Repairable,Broken Camera
-GBR,Apple,2,Repairable,Broken Home Button
-GBR,Apple,2,Repairable,Very Slow
-GBR,Apple,2,Repairable,Very Slow
-BEL,Unknown,"Unknown",End of Life,Faulty Software
-GBR,Samsung,3,End of Life,Faulty Software
-NOR,Apple,8,Repairable,Broken Screen
-NOR,Samsung,3,Repairable,Broken Screen
-NOR,Samsung,4,Repairable,Broken Screen
-NOR,Apple,3.5,Repairable,Broken Screen
-GBR,Apple,4,Repairable,Faulty Software
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-BEL,Huawei,3,End of Life,Faulty Software
-BEL,Apple,"Unknown",Repairable,Broken Battery
-GBR,HTC,10,Repairable,Broken Screen
-BEL,Samsung,3,Repairable,Broken Screen
-BEL,OnePlus,"Unknown",Repairable,Water Damage
-GBR,Samsung,4.5,Repairable,Faulty Software
-GBR,Blackview,3.5,Repairable,Broken Screen
-BEL,Samsung,"Unknown",Repairable,Broken Screen
-BEL,Nokia,"Unknown",Repairable,Broken Screen
-GBR,Samsung,2,Repairable,Broken Battery
-GBR,Samsung,0.2,Repairable,Broken Screen
-GBR,Apple,5,Repairable,Broken Screen
-BEL,Apple,5,Repairable,Broken Camera
-BEL,Unknown,"Unknown",Repairable,Faulty Software
-BEL,Sony,12,Repairable,Broken Screen
-GBR,Samsung,3,Repairable,Broken Screen
-BEL,Samsung,"Unknown",End of Life,Broken Screen
-BEL,Xiaomi,1,End of Life,Over Heating
-GBR,Samsung,5,Repairable,Broken Screen
-GBR,Samsung,5,Repairable,Broken Screen
-GBR,LG,10,End of Life,Broken Screen
-GBR,Sony,22,Repairable,Broken Screen
-BEL,Samsung,2,Repairable,Broken Screen
-GBR,Samsung,3,Repairable,Broken Screen
-GBR,Apple,2,Repairable,Broken Screen
-GBR,Samsung,2,Repairable,Broken Screen
-GBR,Fairphone,7,Repairable,Broken Home Button
-BEL,Apple,"Unknown",Repairable,Full Memory
-BEL,Unknown,"Unknown",End of Life,Broken Screen
-BEL,Samsung,"Unknown",End of Life,Faulty Software
-BEL,Unknown,"Unknown",End of Life,Faulty Software
-ITA,Samsung,"Unknown",Repairable,Broken Screen
-ITA,Nokia,"Unknown",Repairable,Very Slow
-GBR,Alcatel,2,Repairable,Broken Screen
-BEL,Unknown,3,Repairable,Very Slow
-BEL,Unknown,"Unknown",End of Life,Full Memory
-BEL,Unknown,"Unknown",Repairable,Broken Screen
-NOR,Apple,4,Repairable,Broken Screen
-NOR,Samsung,9,Repairable,Broken Screen
-GBR,Nokia,1,Repairable,Water Damage
-GBR,Apple,2,Repairable,Water Damage
-GBR,Nexus,7,End of Life,Broken Screen
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-BEL,Apple,"Unknown",End of Life,Faulty Software
-BEL,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Samsung,1,Repairable,Broken Screen
-GBR,Motorola,4,End of Life,Broken Screen
-BEL,Huawei,"Unknown",Repairable,Broken Screen
-BEL,Unknown,"Unknown",Repairable,Broken Camera
-GBR,Apple,4,Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-BEL,Phillips,"Unknown",Repairable,Broken Screen
-BEL,Huawei,"Unknown",End of Life,Broken Screen
-ITA,Samsung,"Unknown",Repairable,Broken Screen
-ITA,Xiaomi,"Unknown",Repairable,Broken Screen
-BEL,Unknown,4,End of Life,Fully Destroyed/Burned
-GBR,Sony,4,Repairable,Not recognized SIM card
-FRA,Apple,"Unknown",End of Life,Broken Home Button
-GBR,Haweii,"Unknown",End of Life,Water Damage
-BEL,Unknown,"Unknown",End of Life,Faulty Software
-GBR,Samsung,7,Repairable,Broken Screen
-GBR,Apple,0.5,Repairable,Broken Screen
-GBR,Apple,7,Repairable,Broken Screen
-GBR,Phillips,5,Repairable,Broken Camera
-BEL,Unknown,"Unknown",Repairable,Faulty Software
-BEL,Apple,"Unknown",End of Life,Broken Home Button
-GBR,Samsung,5,End of Life,Broken Screen
-ESP,BQ,5,End of Life,Broken Screen
-BEL,Unknown,"Unknown",Repairable,Fully Destroyed/Burned
-BEL,Unknown,"Unknown",End of Life,Broken Screen
-BEL,Unknown,"Unknown",End of Life,Broken Screen
-GBR,Samsung,5,Repairable,Broken Camera
-SWE,Apple,3,Repairable,Broken Battery
-GBR,Apple,1,Repairable,Charging Issues
-GBR,Apple,3,End of Life,Broken Battery
-BEL,Samsung,"Unknown",Repairable,Faulty Software
-GBR,Apple,10,Repairable,Broken Screen
-GBR,Blackview,"Unknown",Repairable,Broken Screen
-ITA,Unknown,5,End of Life,Water Damage
-GBR,Samsung,"Unknown",Repairable,Broken Home Button
-GBR,Ushining,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Sony,10,End of Life,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,LG,"Unknown",Repairable,Broken Charging Socket
-GBR,Apple,4,Repairable,Broken Battery
-GBR,Apple,8,End of Life,Broken Screen
-GBR,Apple,8,End of Life,Broken Screen
-GBR,Apple,7,Repairable,Broken Home Button
-GBR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Nokia,12,End of Life,Broken Home Button
-GBR,Samsung,"Unknown",Repairable,Broken Home Button
-GBR,Apple,"Unknown",Repairable,Broken Screen
-GBR,Samsung,12,Repairable,Broken Screen
-GBR,HTC,5,Repairable,Broken Camera
-SWE,Apple,7,Repairable,Broken Screen
-GBR,Nokia,"Unknown",Repairable,Broken Screen
-GBR,Apple,"Unknown",Repairable,Broken Screen
-BEL,Huawei,2,Repairable,Charging Issues
-BEL,Unknown,2,Repairable,Very Slow
-NOR,Xiaomi,0.8,Repairable,Broken Screen
-NOR,OnePlus,1.5,End of Life,Broken Camera
-NOR,Samsung,"Unknown",Repairable,Broken Screen
-GBR,Nokia,20,Repairable,Broken Home Button
-GBR,Samsung,4,End of Life,Broken Home Button
-SWE,Xiaomi,2,End of Life,Broken Camera
-BEL,Panasonic,"Unknown",Repairable,Fully Destroyed/Burned
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Samsung,"Unknown",Repairable,Broken Camera
-GBR,Sony,"Unknown",Repairable,Full Memory
-GBR,Cubot,"Unknown",Repairable,Charging Issues
-GBR,Motorola,"Unknown",End of Life,Water Damage
-GBR,Sony,"Unknown",Repairable,Very Slow
-GBR,Unknown,"Unknown",Repairable,Broken Screen
-GBR,Unknown,"Unknown",End of Life,Broken Camera
-GBR,Unknown,"Unknown",End of Life,Broken Battery
-CHE,Apple,"Unknown",Repairable,Broken Screen
-BEL,Samsung,"Unknown",End of Life,Broken Screen
-BEL,Huawei,"Unknown",Repairable,Broken Screen
-BEL,Unknown,"Unknown",End of Life,Broken Screen
-BEL,Samsung,"Unknown",Repairable,Broken Home Button
-BEL,Samsung,3,Repairable,Broken Screen
-NLD,Sony,"Unknown",Repairable,Charging Issues
-BEL,Motorola,"Unknown",Repairable,Fully Destroyed/Burned
-BEL,Huawei,3,End of Life,Broken Screen
-BEL,Huawei,"Unknown",Repairable,Broken Camera
-BEL,Huawei,3,Repairable,Broken Screen
-BEL,Wiko,0,Repairable,Water Damage
-BEL,Motorola,3,Repairable,Broken Screen
-BEL,Apple,5,Repairable,Broken Screen
-BEL,OnePlus,"Unknown",Repairable,Broken Screen
-CHE,Huawei,"Unknown",Repairable,Broken Screen
-BEL,Samsung,3,End of Life,Broken Battery
-BEL,Xiaomi,2,Repairable,Broken Screen
-BEL,Samsung,"Unknown",Repairable,Water Damage
-BEL,OnePlus,"Unknown",Repairable,Broken Screen
-BEL,Samsung,"Unknown",Repairable,Faulty Software
-BEL,ZTE,"Unknown",Repairable,Broken Battery
-BEL,Samsung,2,Repairable,Broken Screen
-BEL,Samsung,"Unknown",Repairable,Broken Screen
+Country,Brand,Age,Age EOL,Repair status,Problem
+ENG,Motorola,Unknown,Unknown,End of Life,Broken Screen
+ENG,Samsung,Unknown,N/A,Repairable,Water Damage
+ENG,Apple,Unknown,N/A,Repairable,Broken Screen
+ENG,Apple,Unknown,N/A,Repairable,Broken Screen
+ENG,Samsung,Unknown,N/A,Repairable,Broken Screen
+ENG,Siemens,Unknown,N/A,Repairable,Broken Screen
+ENG,Huawei,Unknown,N/A,Repairable,Broken Home Button
+ENG,Siemens,Unknown,N/A,Repairable,Broken Screen
+ENG,Sony,Unknown,N/A,Repairable,Broken Battery
+ENG,Phillips,Unknown,Unknown,End of Life,Broken Home Button
+ENG,Samsung,4,4,End of Life,Broken Screen
+ENG,Apple,2,N/A,Repairable,Broken Charging Socket
+ENG,Siemens,Unknown,N/A,Repairable,Broken Screen
+ENG,Samsung,Unknown,N/A,Repairable,Broken Screen
+ENG,Apple,Unknown,N/A,Repairable,Broken Screen
+ENG,Sony,6,N/A,Repairable,Broken Screen
+ENG,Samsung,Unknown,N/A,Repairable,Broken Screen
+ENG,Huawei,Unknown,N/A,Repairable,Broken Screen
+ENG,Motorola,Unknown,N/A,Repairable,Broken Home Button
+ENG,Samsung,Unknown,N/A,Repairable,Broken Home Button
+ENG,Apple,Unknown,N/A,Repairable,Broken Screen
+ENG,Samsung,Unknown,N/A,Repairable,Broken Screen
+ENG,Samsung,Unknown,Unknown,End of Life,Broken Screen
+ENG,Wiko,Unknown,N/A,Repairable,Broken Screen
+ENG,Sony,Unknown,N/A,Repairable,Broken Screen
+ENG,Apple,Unknown,Unknown,End of Life,Broken Battery
+ENG,Samsung,Unknown,N/A,Repairable,Broken Screen
+ENG,Samsung,Unknown,N/A,Repairable,Broken Battery
+ENG,Samsung,4,N/A,Repairable,Broken Screen
+ENG,Fairphone,Unknown,N/A,Repairable,Broken Screen
+ENG,Oukitel,Unknown,N/A,Repairable,Broken Screen
+ENG,Fairphone,Unknown,Unknown,End of Life,Broken Screen
+ENG,Motorola,Unknown,Unknown,End of Life,Broken Screen
+ENG,Motorola,2,N/A,Repairable,Broken Screen
+ENG,Motorola,Unknown,Unknown,End of Life,Broken Screen
+ENG,BQ,2,N/A,Repairable,Broken Screen
+ENG,Samsung,7,N/A,Repairable,Broken Screen
+ENG,Nokia,Unknown,Unknown,End of Life,Defective Keyboard
+ENG,Huawei,Unknown,N/A,Repairable,Water Damage
+ENG,Samsung,Unknown,N/A,Repairable,Broken Screen
+ENG,Samsung,Unknown,N/A,Repairable,Broken Screen
+ENG,Sony,10,10,End of Life,Water Damage
+ENG,Sony,10,10,End of Life,Water Damage
+ENG,Apple,5,N/A,Repairable,Water Damage
+ENG,ZTE,Unknown,N/A,Repairable,Water Damage
+ENG,Apple,5,N/A,Repairable,Broken Screen
+ENG,Apple,Unknown,N/A,Repairable,Water Damage
+ENG,Motorola,6,6,End of Life,Water Damage
+ENG,Samsung,Unknown,Unknown,End of Life,Broken Screen
+ENG,Huawei,5,N/A,Repairable,Broken Screen
+ENG,Huawei,Unknown,N/A,Repairable,Broken Screen
+ENG,Apple,Unknown,Unknown,End of Life,Broken Screen
+ENG,Wiko,Unknown,N/A,Repairable,Broken Screen
+ENG,Fairphone,2,N/A,Repairable,Broken Screen
+ENG,Samsung,4,N/A,Repairable,Broken Home Button
+ENG,Xiaomi,Unknown,Unknown,End of Life,Broken Screen
+ENG,Samsung,6,N/A,Repairable,Broken Screen
+ENG,Sony,4,N/A,Repairable,Broken Screen
+ENG,Huawei,Unknown,N/A,Repairable,Broken Screen
+ENG,Apple,Unknown,Unknown,End of Life,Very Slow
+ENG,Apple,Unknown,N/A,Repairable,Broken Screen
+ENG,Wiko,Unknown,Unknown,End of Life,Full Memory
+ENG,Samsung,Unknown,Unknown,End of Life,Broken Screen
+ENG,Huawei,Unknown,N/A,Repairable,Broken Screen
+ENG,Siemens,Unknown,N/A,Repairable,Broken Battery
+ENG,Samsung,Unknown,Unknown,End of Life,Broken Screen
+ENG,Huawei,Unknown,N/A,Repairable,Broken Screen
+ENG,Samsung,3,N/A,Repairable,Broken Screen
+ENG,Huawei,3,N/A,Repairable,Broken Screen
+ENG,Samsung,10,N/A,Repairable,Broken Charging Socket
+ENG,Apple,Unknown,N/A,Repairable,Broken Home Button
+ENG,Apple,3,N/A,Repairable,Broken Home Button
+ENG,Xiaomi,4,N/A,Repairable,Broken Screen
+ENG,Samsung,9,N/A,Repairable,Broken Screen
+ENG,Nokia,5,5,End of Life,Broken Screen
+ENG,Honor,4,N/A,Repairable,Broken Screen
+ENG,Huawei,Unknown,N/A,Repairable,Broken Screen
+ENG,Xiaomi,2,N/A,Repairable,Broken Screen
+ENG,Samsung,6,N/A,Repairable,Broken Screen
+ENG,Samsung,3,N/A,Repairable,Broken Screen
+ENG,Samsung,4,4,End of Life,Faulty Software
+ENG,Huawei,Unknown,N/A,Repairable,Broken Screen
+ENG,Sony,Unknown,Unknown,End of Life,Broken Screen
+ENG,Oukitel,Unknown,N/A,Repairable,Faulty Software
+ENG,OnePlus,Unknown,Unknown,End of Life,Water Damage
+ENG,Huawei,4,N/A,Repairable,Broken Battery
+ENG,ZTE,1,N/A,Repairable,Very Slow
+ENG,Huawei,5,N/A,Repairable,Faulty Software
+ENG,Sony,7,7,End of Life,Broken Screen
+ENG,Huawei,3,N/A,Repairable,Broken Battery
+ENG,Huawei,3,N/A,Repairable,Water Damage
+ENG,Apple,6,N/A,Repairable,Broken Screen
+ENG,LG,4,N/A,Repairable,Broken Charging Socket
+ENG,Samsung,7,N/A,Repairable,Defective Keyboard
+ENG,Siemens,6,N/A,Repairable,Defective Keyboard
+ENG,Apple,5,N/A,Repairable,Broken Screen
+ENG,Samsung,6,6,End of Life,Broken Screen
+ENG,Apple,Unknown,N/A,Repairable,Broken Battery
+ENG,Apple,7,N/A,Repairable,Broken Screen
+ENG,Oukitel,5,5,End of Life,Broken Screen
+FRA,Samsung,Unknown,Unknown,End of Life,Faulty Software
+GBR,Apple,Unknown,Unknown,End of Life,Water Damage
+ENG,HTC,5,N/A,Repairable,Faulty Software
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+FRA,Honor,5,N/A,Repairable,Broken Home Button
+FRA,Samsung,Unknown,N/A,Repairable,Faulty Software
+ESP,Samsung,5,N/A,Repairable,Fully Destroyed/Burned
+FRA,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,3,N/A,Repairable,Water Damage
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Honor,3,N/A,Repairable,Broken Screen
+GBR,Sony,8,N/A,Repairable,Broken Battery
+FRA,Samsung,Unknown,N/A,Repairable,Charging Issues
+NLD,Apple,Unknown,N/A,Repairable,Broken Screen
+NLD,Apple,6,6,End of Life,Broken Screen
+NLD,Nokia,5,N/A,Repairable,Broken Home Button
+NLD,Wiko,0,0,End of Life,Charging Issues
+NLD,Motorola,5,N/A,Repairable,Broken Screen
+NLD,Apple,3,N/A,Repairable,Not recognized SIM card
+GBR,Alcatel,7,N/A,Repairable,Very Slow
+FRA,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,1,N/A,Repairable,Broken Screen
+NLD,Wiko,Unknown,Unknown,End of Life,Broken Screen
+GBR,Alcatel,Unknown,N/A,Repairable,Broken Screen
+FRA,Samsung,Unknown,Unknown,End of Life,Broken Home Button
+NLD,Samsung,5,N/A,Repairable,Broken Camera
+FRA,Apple,10,10,End of Life,Very Slow
+FRA,Samsung,6,6,End of Life,Broken Screen
+FRA,Apple,Unknown,N/A,Repairable,Broken Screen
+NLD,Apple,Unknown,Unknown,End of Life,Broken Screen
+FRA,Wiko,Unknown,Unknown,End of Life,Full Memory
+FRA,Huawei,2,2,End of Life,Broken Screen
+FRA,Samsung,Unknown,Unknown,End of Life,Broken Battery
+NLD,Samsung,5,N/A,Repairable,Broken Camera
+ESP,Samsung,6,6,End of Life,Water Damage
+ESP,Xiaomi,Unknown,Unknown,End of Life,Faulty Software
+ESP,Samsung,8,N/A,Repairable,Water Damage
+FRA,Nokia,Unknown,Unknown,End of Life,Faulty Software
+GBR,Apple,6,N/A,Repairable,Broken Screen
+NLD,Apple,Unknown,N/A,Repairable,Charging Issues
+NLD,Samsung,5,N/A,Repairable,Broken Battery
+NLD,Huawei,Unknown,Unknown,End of Life,Very Slow
+GBR,Apple,Unknown,Unknown,End of Life,Broken Screen
+NLD,Alcatel,8,8,End of Life,Broken Screen
+FRA,Samsung,5,5,End of Life,Faulty Software
+NLD,Huawei,3,N/A,Repairable,Broken Screen
+GBR,Sony,Unknown,Unknown,End of Life,Broken Screen
+FRA,Nokia,Unknown,N/A,Repairable,Defective Keyboard
+NLD,Samsung,5,5,End of Life,Charging Issues
+NLD,Samsung,Unknown,N/A,Repairable,Broken Camera
+FRA,Samsung,Unknown,Unknown,End of Life,Broken Home Button
+NLD,Apple,Unknown,Unknown,End of Life,Broken Home Button
+NLD,Fairphone,Unknown,Unknown,End of Life,Water Damage
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+FRA,Nokia,Unknown,N/A,Repairable,Faulty Software
+FRA,Apple,Unknown,N/A,Repairable,Broken Home Button
+NLD,Apple,4,4,End of Life,Not recognized SIM card
+NLD,Samsung,Unknown,Unknown,End of Life,Broken Screen
+NLD,Samsung,Unknown,Unknown,End of Life,Broken Battery
+NLD,Huawei,5,5,End of Life,Broken Battery
+GBR,Huawei,1,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Camera
+GBR,Samsung,Unknown,Unknown,End of Life,Faulty Software
+GBR,Samsung,Unknown,N/A,Repairable,Charging Issues
+NLD,Apple,Unknown,Unknown,End of Life,Broken Home Button
+ENG,Samsung,Unknown,Unknown,End of Life,Faulty Software
+NLD,Apple,Unknown,Unknown,End of Life,Broken Screen
+ENG,Samsung,Unknown,Unknown,End of Life,Broken Screen
+NLD,Samsung,4,N/A,Repairable,Broken Screen
+NLD,Apple,5,5,End of Life,Broken Screen
+NLD,Apple,3,3,End of Life,Defective Keyboard
+GBR,Motorola,Unknown,Unknown,End of Life,Broken Battery
+NLD,Apple,4,N/A,Repairable,Broken Battery
+NLD,Samsung,Unknown,Unknown,End of Life,Broken Screen
+FRA,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Motorola,Unknown,N/A,Repairable,Broken Screen
+NLD,Huawei,3,3,End of Life,Broken Screen
+NLD,LG,9,9,End of Life,Broken Screen
+NLD,Nokia,Unknown,Unknown,End of Life,Broken Screen
+GBR,Apple,4,N/A,Repairable,Broken Screen
+NLD,Samsung,Unknown,N/A,Repairable,Broken Camera
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Nokia,Unknown,Unknown,End of Life,Not recognized SIM card
+GBR,Nokia,Unknown,Unknown,End of Life,Broken Screen
+GBR,Motorola,1,N/A,Repairable,Broken Screen
+ENG,Huawei,Unknown,Unknown,End of Life,Water Damage
+NLD,Apple,Unknown,N/A,Repairable,Broken Screen
+NLD,Samsung,1,1,End of Life,Faulty Software
+NLD,Samsung,Unknown,N/A,Repairable,Broken Home Button
+NLD,Samsung,4,4,End of Life,Broken Battery
+NLD,Samsung,3,3,End of Life,Broken Home Button
+NLD,Huawei,8,8,End of Life,Broken Screen
+NLD,Alcatel,9,9,End of Life,Charging Issues
+NLD,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Charging Socket
+GBR,Apple,Unknown,N/A,Repairable,Broken Charging Socket
+NLD,Apple,3,N/A,Repairable,Broken Battery
+NLD,Samsung,2,N/A,Repairable,Broken Screen
+NLD,Samsung,Unknown,N/A,Repairable,Broken Screen
+NLD,LG,Unknown,N/A,Repairable,Not recognized SIM card
+NLD,Fairphone,3,3,End of Life,Broken Camera
+NLD,Samsung,Unknown,N/A,Repairable,Charging Issues
+NLD,Samsung,Unknown,N/A,Repairable,Broken Screen
+NLD,Motorola,1,N/A,Repairable,Defective Keyboard
+NLD,Samsung,Unknown,N/A,Repairable,Broken Screen
+NLD,HTC,Unknown,N/A,Repairable,Broken Screen
+NLD,Apple,0,0,End of Life,Over Heating
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+NLD,Apple,Unknown,N/A,Repairable,Defective Keyboard
+NLD,Apple,Unknown,N/A,Repairable,Broken Screen
+NLD,Samsung,Unknown,Unknown,End of Life,Broken Screen
+NLD,Apple,5,N/A,Repairable,Fully Destroyed/Burned
+GBR,Sony,3,N/A,Repairable,Broken Screen
+NLD,Samsung,Unknown,N/A,Repairable,Broken Screen
+NLD,Huawei,3,N/A,Repairable,Water Damage
+NLD,Samsung,1,1,End of Life,Broken Screen
+NLD,Samsung,4,N/A,Repairable,Broken Camera
+NLD,Nokia,Unknown,N/A,Repairable,Broken Screen
+NLD,Apple,6,N/A,Repairable,Charging Issues
+NLD,Samsung,1,N/A,Repairable,Broken Camera
+NLD,Apple,Unknown,N/A,Repairable,Faulty Software
+NLD,Microsoft,1,1,End of Life,Broken Battery
+NLD,Nexus,Unknown,Unknown,End of Life,Broken Screen
+NLD,Microsoft,1,N/A,Repairable,Broken Camera
+NLD,Apple,8,N/A,Repairable,Broken Screen
+NLD,Apple,Unknown,N/A,Repairable,Defective Keyboard
+NLD,Apple,4,N/A,Repairable,Broken Camera
+NLD,Apple,Unknown,N/A,Repairable,Water Damage
+NLD,Huawei,1,N/A,Repairable,Very Slow
+NLD,Samsung,Unknown,N/A,Repairable,Broken Camera
+NLD,Samsung,1,N/A,Repairable,Broken Home Button
+NLD,Samsung,Unknown,Unknown,End of Life,Broken Screen
+NLD,Sony,6,6,End of Life,Water Damage
+NLD,Sony,Unknown,N/A,Repairable,Water Damage
+NLD,Sony,Unknown,Unknown,End of Life,Broken Screen
+NLD,Apple,1,1,End of Life,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Home Button
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Motorola,Unknown,Unknown,End of Life,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Sony,Unknown,N/A,Repairable,Broken Screen
+GBR,ZTE,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,Unknown,End of Life,Broken Screen
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,Unknown,End of Life,Not recognized SIM card
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Google,Unknown,Unknown,End of Life,Broken Home Button
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Home Button
+GBR,Apple,Unknown,N/A,Repairable,Broken Home Button
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Apple,Unknown,Unknown,End of Life,Broken Screen
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Apple,Unknown,Unknown,End of Life,Broken Screen
+GBR,HTC,Unknown,Unknown,End of Life,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Motorola,Unknown,N/A,Repairable,Broken Screen
+GBR,Nokia,Unknown,Unknown,End of Life,Broken Screen
+GBR,HTC,Unknown,Unknown,End of Life,Broken Home Button
+GBR,Apple,Unknown,Unknown,End of Life,Water Damage
+GBR,Nokia,Unknown,N/A,Repairable,Broken Home Button
+GBR,HTC,Unknown,N/A,Repairable,Broken Screen
+GBR,HTC,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,Unknown,End of Life,Broken Screen
+GBR,BlackBerry,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,BlackBerry,Unknown,Unknown,End of Life,Charging Issues
+GBR,Motorola,Unknown,Unknown,End of Life,Broken Battery
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Faulty Software
+GBR,Apple,Unknown,N/A,Repairable,Water Damage
+GBR,Apple,Unknown,N/A,Repairable,Very Slow
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,LG,Unknown,N/A,Repairable,Broken Screen
+GBR,Sony,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Home Button
+GBR,Nokia,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Full Memory
+GBR,Samsung,Unknown,Unknown,End of Life,Full Memory
+GBR,Nokia,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Defective Keyboard
+GBR,Apple,Unknown,N/A,Repairable,Broken Camera
+GBR,Samsung,Unknown,N/A,Repairable,Broken Camera
+GBR,Google,Unknown,N/A,Repairable,Full Memory
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Nokia,Unknown,N/A,Repairable,Broken Charging Socket
+GBR,Sony,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Fairphone,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Motorola,Unknown,N/A,Repairable,Not recognized SIM card
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Very Slow
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Fairphone,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Nokia,Unknown,N/A,Repairable,Broken Screen
+GBR,Nokia,Unknown,N/A,Repairable,Broken Charging Socket
+GBR,Samsung,Unknown,N/A,Repairable,Not recognized SIM card
+GBR,Samsung,Unknown,N/A,Repairable,Broken Camera
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Fairphone,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Fully Destroyed/Burned
+GBR,Apple,Unknown,Unknown,End of Life,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Faulty Software
+GBR,Motorola,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,Unknown,End of Life,Broken Screen
+GBR,Sony,Unknown,Unknown,End of Life,Broken Screen
+GBR,Sony,Unknown,Unknown,End of Life,Faulty Software
+GBR,Apple,Unknown,Unknown,End of Life,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,HTC,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,Unknown,End of Life,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Sony,Unknown,N/A,Repairable,Broken Charging Socket
+GBR,BlackBerry,Unknown,N/A,Repairable,Not recognized SIM card
+GBR,BlackBerry,Unknown,Unknown,End of Life,Faulty Software
+GBR,Nokia,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Nokia,Unknown,Unknown,End of Life,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,HTC,Unknown,N/A,Repairable,Broken Charging Socket
+GBR,Samsung,Unknown,N/A,Repairable,Very Slow
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Nokia,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,Unknown,End of Life,Broken Screen
+NOR,Samsung,Unknown,N/A,Repairable,Broken Screen
+NOR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Nokia,Unknown,Unknown,End of Life,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Motorola,Unknown,N/A,Repairable,Full Memory
+GBR,Apple,Unknown,N/A,Repairable,Defective Keyboard
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Motorola,Unknown,Unknown,End of Life,Faulty Software
+GBR,Motorola,Unknown,N/A,Repairable,Broken Screen
+GBR,HTC,Unknown,Unknown,End of Life,Broken Battery
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Charging Socket
+GBR,Fairphone,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Motorola,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Home Button
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+ITA,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Samsung,Unknown,Unknown,End of Life,Not recognized SIM card
+GBR,Apple,Unknown,N/A,Repairable,Very Slow
+GBR,Nokia,Unknown,N/A,Repairable,Broken Screen
+GBR,HTC,Unknown,N/A,Repairable,Broken Screen
+NOR,Fairphone,Unknown,N/A,Repairable,Broken Screen
+NOR,Sony,Unknown,N/A,Repairable,Broken Screen
+NOR,Apple,Unknown,N/A,Repairable,Broken Screen
+NOR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,LG,Unknown,Unknown,End of Life,Broken Screen
+GBR,Microsoft,Unknown,N/A,Repairable,Broken Screen
+NOR,Apple,Unknown,N/A,Repairable,Broken Screen
+NOR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+ITA,Samsung,Unknown,N/A,Repairable,Broken Camera
+GBR,Samsung,Unknown,Unknown,End of Life,Very Slow
+NOR,Sony,Unknown,N/A,Repairable,Broken Screen
+ITA,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Full Memory
+ESP,Apple,Unknown,N/A,Repairable,Broken Camera
+IRL,Apple,Unknown,N/A,Repairable,Broken Home Button
+ESP,Sony,Unknown,N/A,Repairable,Water Damage
+ITA,Samsung,Unknown,N/A,Repairable,Broken Screen
+ITA,LG,Unknown,N/A,Repairable,Broken Screen
+ITA,Samsung,Unknown,N/A,Repairable,Broken Screen
+ESP,Samsung,Unknown,Unknown,End of Life,Broken Camera
+NOR,Apple,Unknown,N/A,Repairable,Humidity Problem
+NOR,Apple,Unknown,Unknown,End of Life,Humidity Problem
+NOR,Apple,Unknown,N/A,Repairable,Humidity Problem
+NOR,Apple,Unknown,Unknown,End of Life,Humidity Problem
+GBR,Samsung,Unknown,N/A,Repairable,Broken Home Button
+GBR,Apple,Unknown,Unknown,End of Life,Faulty Software
+GBR,Apple,Unknown,N/A,Repairable,Broken Home Button
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Full Memory
+GBR,LG,Unknown,Unknown,End of Life,Broken Battery
+GBR,Apple,Unknown,N/A,Repairable,Humidity Problem
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Camera
+GBR,Samsung,Unknown,N/A,Repairable,Faulty Software
+ITA,LG,Unknown,Unknown,End of Life,Over Heating
+GBR,Apple,Unknown,Unknown,End of Life,Broken Screen
+GBR,Motorola,3,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,Unknown,End of Life,Broken Screen
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Apple,Unknown,Unknown,End of Life,Broken Screen
+GBR,Nokia,Unknown,N/A,Repairable,Over Heating
+GBR,Sony,Unknown,Unknown,End of Life,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Sony,0,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+NOR,Samsung,4,N/A,Repairable,Over Heating
+GBR,Apple,Unknown,N/A,Repairable,Broken Battery
+NOR,Fairphone,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Camera
+GBR,Apple,Unknown,N/A,Repairable,Not recognized SIM card
+NOR,Sony,Unknown,N/A,Repairable,Broken Screen
+NOR,Apple,2,2,End of Life,Water Damage
+GBR,Apple,Unknown,Unknown,End of Life,Broken Screen
+GBR,Nokia,0,N/A,Repairable,Full Memory
+GBR,Nokia,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Motorola,3,N/A,Repairable,Broken Screen
+GBR,Motorola,Unknown,Unknown,End of Life,Broken Battery
+GBR,Sony,4,N/A,Repairable,Broken Home Button
+GBR,Apple,3,N/A,Repairable,Water Damage
+GBR,Nokia,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,1,N/A,Repairable,Broken Screen
+GBR,Apple,2,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Motorola,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,0,N/A,Repairable,Broken Screen
+GBR,Google,Unknown,Unknown,End of Life,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Charging Socket
+GBR,LG,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Water Damage
+GBR,Samsung,3,N/A,Repairable,Broken Screen
+GBR,Sony,3,N/A,Repairable,Broken Screen
+GBR,Samsung,4,N/A,Repairable,Broken Screen
+GBR,Samsung,3,3,End of Life,Broken Screen
+GBR,Samsung,1,N/A,Repairable,Broken Screen
+GBR,LG,3,N/A,Repairable,Broken Screen
+GBR,OnePlus,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,3,N/A,Repairable,Broken Screen
+GBR,Apple,2,N/A,Repairable,Broken Screen
+GBR,Apple,3,N/A,Repairable,Broken Screen
+ITA,Samsung,3,3,End of Life,Broken Screen
+ITA,Samsung,5,N/A,Repairable,Broken Screen
+SWE,Apple,3,N/A,Repairable,Broken Screen
+ITA,Samsung,4,4,End of Life,Broken Screen
+GBR,Samsung,1,N/A,Repairable,Broken Home Button
+NOR,Samsung,8,8,End of Life,Broken Charging Socket
+NOR,Apple,5,5,End of Life,Broken Screen
+SWE,Samsung,Unknown,N/A,Repairable,Broken Screen
+SWE,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+ITA,Asus,2,2,End of Life,Very Slow
+ITA,Huawei,1,N/A,Repairable,Broken Screen
+SWE,Apple,Unknown,Unknown,End of Life,Broken Screen
+GBR,Samsung,6,6,End of Life,Broken Screen
+GBR,Samsung,5,N/A,Repairable,Broken Screen
+GBR,Microsoft,1,1,End of Life,Broken Screen
+GBR,Apple,3,3,End of Life,Water Damage
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Home Button
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Home Button
+GBR,LG,Unknown,N/A,Repairable,Not recognized SIM card
+GBR,Apple,Unknown,N/A,Repairable,Broken Home Button
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,3,3,End of Life,Broken Screen
+GBR,Fairphone,Unknown,N/A,Repairable,Broken Screen
+NOR,Motorola,1,N/A,Repairable,Broken Screen
+ITA,Asus,2,N/A,Repairable,Broken Screen
+ITA,Asus,2,2,End of Life,Broken Screen
+ITA,Samsung,4,N/A,Repairable,Broken Screen
+GBR,Samsung,5,N/A,Repairable,Broken Camera
+SWE,Apple,Unknown,N/A,Repairable,Broken Screen
+ITA,Samsung,Unknown,N/A,Repairable,Broken Screen
+ITA,Huawei,Unknown,N/A,Repairable,Broken Battery
+GBR,Apple,4,N/A,Repairable,Broken Screen
+GBR,Apple,5,5,End of Life,Broken Screen
+SWE,Apple,4,N/A,Repairable,Broken Screen
+IRL,Apple,Unknown,N/A,Repairable,Broken Screen
+IRL,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,2,N/A,Repairable,Broken Screen
+SWE,Apple,2,N/A,Repairable,Broken Screen
+GBR,Samsung,7,N/A,Repairable,Broken Screen
+BEL,Apple,2,N/A,Repairable,Broken Screen
+BEL,Apple,2,N/A,Repairable,Broken Screen
+IRL,Apple,Unknown,N/A,Repairable,Defective Keyboard
+IRL,Sony,Unknown,N/A,Repairable,Humidity Problem
+BEL,Apple,6,N/A,Repairable,Broken Screen
+ITA,Apple,7,N/A,Repairable,Charging Issues
+ITA,Samsung,4,N/A,Repairable,Broken Screen
+NOR,Apple,2,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+SWE,Huawei,3,N/A,Repairable,Broken Screen
+BEL,Siemens,Unknown,Unknown,End of Life,Very Slow
+SWE,Apple,Unknown,N/A,Repairable,Broken Charging Socket
+IRL,Samsung,Unknown,N/A,Repairable,Broken Screen
+IRL,Samsung,Unknown,N/A,Repairable,Broken Screen
+IRL,Apple,Unknown,N/A,Repairable,Broken Screen
+IRL,Samsung,Unknown,N/A,Repairable,Broken Screen
+ITA,Apple,Unknown,N/A,Repairable,Broken Screen
+BEL,Motorola,5,N/A,Repairable,Full Memory
+BEL,Huawei,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,2,N/A,Repairable,Broken Battery
+SWE,Samsung,4,4,End of Life,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Nexus,8,N/A,Repairable,Broken Screen
+ITA,Apple,6,6,End of Life,Broken Camera
+ITA,Apple,Unknown,N/A,Repairable,Broken Screen
+IRL,Apple,Unknown,N/A,Repairable,Humidity Problem
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+IRL,Samsung,Unknown,N/A,Repairable,Broken Screen
+IRL,Samsung,Unknown,N/A,Repairable,Broken Screen
+IRL,Samsung,Unknown,N/A,Repairable,Broken Screen
+SWE,Apple,2,N/A,Repairable,Broken Screen
+NOR,Samsung,2,N/A,Repairable,Broken Battery
+NOR,Apple,0,N/A,Repairable,Broken Battery
+NOR,Apple,3,3,End of Life,Faulty Software
+NOR,LG,0,N/A,Repairable,Broken Screen
+NOR,Apple,3,N/A,Repairable,Broken Screen
+NOR,Samsung,2,N/A,Repairable,Fully Destroyed/Burned
+NOR,Apple,3,N/A,Repairable,Broken Screen
+NOR,Microsoft,3,N/A,Repairable,Broken Screen
+NOR,Apple,2,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Home Button
+GBR,Motorola,Unknown,Unknown,End of Life,Faulty Software
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+SWE,Samsung,5,N/A,Repairable,Broken Screen
+SWE,Samsung,5,5,End of Life,Broken Screen
+SWE,Samsung,7,7,End of Life,Broken Screen
+IRL,Apple,5,N/A,Repairable,Broken Screen
+IRL,Fairphone,Unknown,N/A,Repairable,Broken Screen
+IRL,Apple,Unknown,N/A,Repairable,Broken Screen
+SWE,Samsung,2,N/A,Repairable,Broken Screen
+SWE,Samsung,5,5,End of Life,Broken Screen
+SWE,Samsung,7,7,End of Life,Broken Screen
+SWE,Samsung,5,N/A,Repairable,Broken Charging Socket
+SWE,Samsung,5,N/A,Repairable,Broken Charging Socket
+NOR,Apple,4,N/A,Repairable,Broken Screen
+GBR,Fairphone,3,N/A,Repairable,Faulty Software
+GBR,Huawei,2,N/A,Repairable,Broken Screen
+GBR,ZTE,2,N/A,Repairable,Broken Screen
+GBR,Apple,3,N/A,Repairable,Broken Home Button
+GBR,Samsung,Unknown,Unknown,End of Life,Fully Destroyed/Burned
+NOR,Apple,2,N/A,Repairable,Broken Screen
+ESP,BQ,Unknown,N/A,Repairable,Broken Screen
+GBR,Nokia,8,N/A,Repairable,Broken Battery
+GBR,Apple,2,N/A,Repairable,Broken Screen
+GBR,Nokia,2,N/A,Repairable,Humidity Problem
+GBR,Motorola,6,6,End of Life,Broken Home Button
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Microsoft,Unknown,N/A,Repairable,Broken Screen
+GBR,Google,6,N/A,Repairable,Broken Home Button
+SWE,Samsung,2,N/A,Repairable,Broken Screen
+NOR,Sony,2,N/A,Repairable,Broken Screen
+NOR,Apple,2,N/A,Repairable,Broken Screen
+NOR,Apple,3,N/A,Repairable,Broken Screen
+NOR,Apple,1,N/A,Repairable,Broken Screen
+NOR,Samsung,2,N/A,Repairable,Broken Screen
+NOR,Apple,2,N/A,Repairable,Broken Screen
+NOR,Asus,2,N/A,Repairable,Broken Screen
+NOR,Samsung,4,N/A,Repairable,Very Slow
+NOR,Motorola,2,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Faulty Software
+ITA,Samsung,Unknown,Unknown,End of Life,Broken Screen
+SWE,Fairphone,4,N/A,Repairable,Charging Issues
+NOR,Huawei,4,N/A,Repairable,Broken Screen
+ESP,Samsung,Unknown,N/A,Repairable,Broken Screen
+ESP,Wiko,Unknown,N/A,Repairable,Broken Screen
+ESP,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,10,N/A,Repairable,Broken Camera
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+BEL,Huawei,Unknown,N/A,Repairable,Faulty Software
+ESP,Xiaomi,2,N/A,Repairable,Broken Screen
+BEL,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Fairphone,Unknown,N/A,Repairable,Full Memory
+NOR,Samsung,3,N/A,Repairable,Broken Home Button
+NOR,Samsung,5,N/A,Repairable,Broken Screen
+NOR,Apple,4,N/A,Repairable,Broken Screen
+ITA,Samsung,Unknown,Unknown,End of Life,Broken Screen
+GBR,Samsung,5,5,End of Life,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Charging Socket
+GBR,Samsung,1,N/A,Repairable,Water Damage
+GBR,Samsung,10,N/A,Repairable,Very Slow
+GBR,Nokia,Unknown,Unknown,End of Life,Broken Screen
+SWE,Samsung,5,5,End of Life,Broken Home Button
+SWE,Apple,6,N/A,Repairable,Broken Screen
+BEL,Samsung,4,N/A,Repairable,Very Slow
+BEL,Nokia,Unknown,N/A,Repairable,Broken Camera
+GBR,Apple,2,N/A,Repairable,Broken Home Button
+GBR,Apple,2,N/A,Repairable,Very Slow
+GBR,Apple,2,N/A,Repairable,Very Slow
+GBR,Samsung,3,3,End of Life,Faulty Software
+NOR,Apple,8,N/A,Repairable,Broken Screen
+NOR,Samsung,3,N/A,Repairable,Broken Screen
+NOR,Samsung,4,N/A,Repairable,Broken Screen
+NOR,Apple,3,N/A,Repairable,Broken Screen
+GBR,Apple,4,N/A,Repairable,Faulty Software
+BEL,Huawei,3,3,End of Life,Faulty Software
+BEL,Apple,Unknown,N/A,Repairable,Broken Battery
+GBR,HTC,10,N/A,Repairable,Broken Screen
+BEL,Samsung,3,N/A,Repairable,Broken Screen
+BEL,OnePlus,Unknown,N/A,Repairable,Water Damage
+GBR,Samsung,4,N/A,Repairable,Faulty Software
+BEL,Samsung,Unknown,N/A,Repairable,Broken Screen
+BEL,Nokia,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,2,N/A,Repairable,Broken Battery
+GBR,Samsung,0,N/A,Repairable,Broken Screen
+GBR,Apple,5,N/A,Repairable,Broken Screen
+BEL,Apple,5,N/A,Repairable,Broken Camera
+GBR,Samsung,3,N/A,Repairable,Broken Screen
+BEL,Samsung,Unknown,Unknown,End of Life,Broken Screen
+BEL,Xiaomi,1,1,End of Life,Over Heating
+GBR,Samsung,5,N/A,Repairable,Broken Screen
+GBR,Samsung,5,N/A,Repairable,Broken Screen
+GBR,LG,10,10,End of Life,Broken Screen
+BEL,Samsung,2,N/A,Repairable,Broken Screen
+GBR,Samsung,3,N/A,Repairable,Broken Screen
+GBR,Apple,2,N/A,Repairable,Broken Screen
+GBR,Samsung,2,N/A,Repairable,Broken Screen
+GBR,Fairphone,7,N/A,Repairable,Broken Home Button
+BEL,Apple,Unknown,N/A,Repairable,Full Memory
+BEL,Samsung,Unknown,Unknown,End of Life,Faulty Software
+ITA,Samsung,Unknown,N/A,Repairable,Broken Screen
+ITA,Nokia,Unknown,N/A,Repairable,Very Slow
+GBR,Alcatel,2,N/A,Repairable,Broken Screen
+NOR,Apple,4,N/A,Repairable,Broken Screen
+NOR,Samsung,9,N/A,Repairable,Broken Screen
+GBR,Nokia,1,N/A,Repairable,Water Damage
+GBR,Apple,2,N/A,Repairable,Water Damage
+GBR,Nexus,7,7,End of Life,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+BEL,Apple,Unknown,Unknown,End of Life,Faulty Software
+BEL,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,1,N/A,Repairable,Broken Screen
+GBR,Motorola,4,4,End of Life,Broken Screen
+BEL,Huawei,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,4,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+BEL,Phillips,Unknown,N/A,Repairable,Broken Screen
+BEL,Huawei,Unknown,Unknown,End of Life,Broken Screen
+ITA,Samsung,Unknown,N/A,Repairable,Broken Screen
+ITA,Xiaomi,Unknown,N/A,Repairable,Broken Screen
+GBR,Sony,4,N/A,Repairable,Not recognized SIM card
+FRA,Apple,Unknown,Unknown,End of Life,Broken Home Button
+GBR,Huawei,Unknown,Unknown,End of Life,Water Damage
+GBR,Samsung,7,N/A,Repairable,Broken Screen
+GBR,Apple,0,N/A,Repairable,Broken Screen
+GBR,Apple,7,N/A,Repairable,Broken Screen
+GBR,Phillips,5,N/A,Repairable,Broken Camera
+BEL,Apple,Unknown,Unknown,End of Life,Broken Home Button
+GBR,Samsung,5,5,End of Life,Broken Screen
+ESP,BQ,5,5,End of Life,Broken Screen
+GBR,Samsung,5,N/A,Repairable,Broken Camera
+SWE,Apple,3,N/A,Repairable,Broken Battery
+GBR,Apple,1,N/A,Repairable,Charging Issues
+GBR,Apple,3,3,End of Life,Broken Battery
+BEL,Samsung,Unknown,N/A,Repairable,Faulty Software
+GBR,Apple,10,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Home Button
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Sony,10,10,End of Life,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,LG,Unknown,N/A,Repairable,Broken Charging Socket
+GBR,Apple,4,N/A,Repairable,Broken Battery
+GBR,Apple,8,8,End of Life,Broken Screen
+GBR,Apple,8,8,End of Life,Broken Screen
+GBR,Apple,7,N/A,Repairable,Broken Home Button
+GBR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,Unknown,N/A,Repairable,Broken Home Button
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+GBR,HTC,5,N/A,Repairable,Broken Camera
+SWE,Apple,7,N/A,Repairable,Broken Screen
+GBR,Nokia,Unknown,N/A,Repairable,Broken Screen
+GBR,Apple,Unknown,N/A,Repairable,Broken Screen
+BEL,Huawei,2,N/A,Repairable,Charging Issues
+NOR,Xiaomi,0,N/A,Repairable,Broken Screen
+NOR,OnePlus,1,1,End of Life,Broken Camera
+NOR,Samsung,Unknown,N/A,Repairable,Broken Screen
+GBR,Samsung,4,4,End of Life,Broken Home Button
+SWE,Xiaomi,2,2,End of Life,Broken Camera
+GBR,Samsung,Unknown,N/A,Repairable,Broken Camera
+GBR,Sony,Unknown,N/A,Repairable,Full Memory
+GBR,Motorola,Unknown,Unknown,End of Life,Water Damage
+GBR,Sony,Unknown,N/A,Repairable,Very Slow
+CHE,Apple,Unknown,N/A,Repairable,Broken Screen
+BEL,Samsung,Unknown,Unknown,End of Life,Broken Screen
+BEL,Huawei,Unknown,N/A,Repairable,Broken Screen
+BEL,Samsung,Unknown,N/A,Repairable,Broken Home Button
+BEL,Samsung,3,N/A,Repairable,Broken Screen
+NLD,Sony,Unknown,N/A,Repairable,Charging Issues
+BEL,Motorola,Unknown,N/A,Repairable,Fully Destroyed/Burned
+BEL,Huawei,3,3,End of Life,Broken Screen
+BEL,Huawei,Unknown,N/A,Repairable,Broken Camera
+BEL,Huawei,3,N/A,Repairable,Broken Screen
+BEL,Wiko,0,N/A,Repairable,Water Damage
+BEL,Motorola,3,N/A,Repairable,Broken Screen
+BEL,Apple,5,N/A,Repairable,Broken Screen
+BEL,OnePlus,Unknown,N/A,Repairable,Broken Screen
+CHE,Huawei,Unknown,N/A,Repairable,Broken Screen
+BEL,Samsung,3,3,End of Life,Broken Battery
+BEL,Xiaomi,2,N/A,Repairable,Broken Screen
+BEL,Samsung,Unknown,N/A,Repairable,Water Damage
+BEL,OnePlus,Unknown,N/A,Repairable,Broken Screen
+BEL,Samsung,Unknown,N/A,Repairable,Faulty Software
+BEL,ZTE,Unknown,N/A,Repairable,Broken Battery
+BEL,Samsung,2,N/A,Repairable,Broken Screen
+BEL,Samsung,Unknown,N/A,Repairable,Broken Screen

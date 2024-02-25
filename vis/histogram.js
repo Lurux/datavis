@@ -64,7 +64,7 @@ export default function(p5)
 
 	p5.draw = function()
 	{
-		p5.background(10, 10, 10); //"#1b1b1b");
+		p5.background(13, 13, 13);
 		p5.textSize(14);
 
 		draw_background_decor();

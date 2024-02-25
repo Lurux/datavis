@@ -31,13 +31,13 @@ export default function(p5)
 	{
 		parse_data();
 
-		p5.createCanvas(1200, 700);
+		p5.createCanvas(1200, 1000);
 		p5.noLoop();
 	}
 
 	p5.draw = function()
 	{
-		p5.background(10, 10, 10);
+		p5.background(13, 13, 13);
 		p5.textSize(14);
 
 		drawRadialChart();
