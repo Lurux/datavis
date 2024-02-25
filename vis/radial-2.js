@@ -1,4 +1,4 @@
-import w from "/util/pre-work.js";
+import w from "../util/pre-work.js";
 
 export default function(p5)
 {
