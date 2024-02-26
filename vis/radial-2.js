@@ -9,10 +9,10 @@ export default function(p5)
 	const min_count = 6;
 	const num_problems = 10;
 
-	const bar_min_count = 8;
+	const bar_min_count = 10;
 	const pie_min_count = 6;
-	const histogram_min_count = 4;
-	const age_min_count = 4;
+	const histogram_min_count = 5;
+	const age_min_count = 5;
 
 	const bar_problems = 10;
 	const histogram_length = 6;
