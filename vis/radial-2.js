@@ -167,11 +167,11 @@ export default function(p5)
 				break;
 			default:
 				selected_brands.sort((a, b) => {
-					let min_a = bar_min_count <= aggregate_brand.rows[a].count && aggregate_brand.rows[a].fields.problem.counts[lsort];
-					let min_b = bar_min_count <= aggregate_brand.rows[b].count && aggregate_brand.rows[b].fields.problem.counts[lsort];
+					let min_a = bar_min_count <= aggregate_brand.rows[a].count;
+					let min_b = bar_min_count <= aggregate_brand.rows[b].count;
 					if(min_a && !min_b) return -1;
 					if(!min_a && min_b) return 1;
-					return aggregate_brand.rows[b].fields.problem.counts[lsort] / aggregate_brand.rows[b].count - aggregate_brand.rows[a].fields.problem.counts[lsort] / aggregate_brand.rows[a].count
+					return (aggregate_brand.rows[b].fields.problem.counts[lsort] ?? 0) / aggregate_brand.rows[b].count - (aggregate_brand.rows[a].fields.problem.counts[lsort] ?? 0) / aggregate_brand.rows[a].count
 				});
 				break;
 		}
